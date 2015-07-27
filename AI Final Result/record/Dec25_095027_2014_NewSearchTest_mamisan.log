@@ -1,0 +1,284 @@
+Initialization:
+    Waiting to connect ...
+    AI0: NewSearchTest from 127.0.0.1 connected
+    AI1: mamisan from 127.0.0.1 connected
+    mamisan is the first player
+    NewSearchTest is the second player
+Step 1:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 2 2 R
+    Transform message form [number: 1] [name: mamisan]: 6 4 L
+    Correct move!
+    Player 1 [name mamisan] choose (6,4) move to (6 3)
+    Send to player 0 [name: NewSearchTest] infomation : (1 6 4 6 3)
+    Send to player 1 [name: mamisan] infomation : (1 2 2 2 3)
+Step 2:
+    Send to player 0 [name: NewSearchTest] a signal: ACTION
+    Receive message form player 0 [name: NewSearchTest]: 1 1 D
+    Transform message form [number: 0] [name: NewSearchTest]: 1 1 D
+    Correct move!
+    Player 0 [name NewSearchTest] choose (1,1) move to (0 1)
+    Send to player 0 [name: NewSearchTest] infomation : (0 1 1 0 1)
+    Send to player 1 [name: mamisan] infomation : (0 7 5 8 5)
+Step 3:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 2 3 U
+    Transform message form [number: 1] [name: mamisan]: 6 3 D
+    Correct move!
+    Player 1 [name mamisan] choose (6,3) move to (5 3)
+    Send to player 0 [name: NewSearchTest] infomation : (1 6 3 5 3)
+    Send to player 1 [name: mamisan] infomation : (1 2 3 3 3)
+Step 4:
+    Send to player 0 [name: NewSearchTest] a signal: ACTION
+    Receive message form player 0 [name: NewSearchTest]: 2 0 D
+    Transform message form [number: 0] [name: NewSearchTest]: 2 0 D
+    Correct move!
+    Player 0 [name NewSearchTest] choose (2,0) move to (1 0)
+    Send to player 0 [name: NewSearchTest] infomation : (0 2 0 1 0)
+    Send to player 1 [name: mamisan] infomation : (0 6 6 7 6)
+Step 5:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 3 3 U
+    Transform message form [number: 1] [name: mamisan]: 5 3 D
+    Correct move!
+    Player 1 [name mamisan] choose (5,3) move to (4 3)
+    Send to player 0 [name: NewSearchTest] infomation : (1 5 3 4 3)
+    Send to player 1 [name: mamisan] infomation : (1 3 3 4 3)
+Step 6:
+    Send to player 0 [name: NewSearchTest] a signal: ACTION
+    Receive message form player 0 [name: NewSearchTest]: 1 0 R
+    Transform message form [number: 0] [name: NewSearchTest]: 1 0 R
+    Correct move!
+    Player 0 [name NewSearchTest] choose (1,0) move to (1 1)
+    Send to player 0 [name: NewSearchTest] infomation : (0 1 0 1 1)
+    Send to player 1 [name: mamisan] infomation : (0 7 6 7 5)
+Step 7:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 4 3 U
+    Transform message form [number: 1] [name: mamisan]: 4 3 D
+    Correct move!
+    Player 1 [name mamisan] choose (4,3) move to (3 3)
+    Send to player 0 [name: NewSearchTest] infomation : (1 4 3 3 3)
+    Send to player 1 [name: mamisan] infomation : (1 4 3 5 3)
+Step 8:
+    Send to player 0 [name: NewSearchTest] a signal: ACTION
+    Receive message form player 0 [name: NewSearchTest]: 1 1 R
+    Transform message form [number: 0] [name: NewSearchTest]: 1 1 R
+    Correct move!
+    Player 0 [name NewSearchTest] choose (1,1) move to (1 2)
+    Send to player 0 [name: NewSearchTest] infomation : (0 1 1 1 2)
+    Send to player 1 [name: mamisan] infomation : (0 7 5 7 4)
+Step 9:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 5 3 U
+    Transform message form [number: 1] [name: mamisan]: 3 3 D
+    Correct move!
+    Player 1 [name mamisan] choose (3,3) move to (2 3)
+    Send to player 0 [name: NewSearchTest] infomation : (1 3 3 2 3)
+    Send to player 1 [name: mamisan] infomation : (1 5 3 6 3)
+Step 10:
+    Send to player 0 [name: NewSearchTest] a signal: ACTION
+    Receive message form player 0 [name: NewSearchTest]: 1 5 L
+    Transform message form [number: 0] [name: NewSearchTest]: 1 5 L
+    Correct move!
+    Player 0 [name NewSearchTest] choose (1,5) move to (1 4)
+    Send to player 0 [name: NewSearchTest] infomation : (0 1 5 1 4)
+    Send to player 1 [name: mamisan] infomation : (0 7 1 7 2)
+Step 11:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 6 3 U
+    Transform message form [number: 1] [name: mamisan]: 2 3 D
+    Correct move!
+    Player 1 [name mamisan] choose (2,3) move to (1 3)
+    Send to player 0 [name: NewSearchTest] infomation : (1 2 3 1 3)
+    Send to player 1 [name: mamisan] infomation : (1 6 3 7 3)
+Step 12:
+    Send to player 0 [name: NewSearchTest] a signal: ACTION
+    Receive message form player 0 [name: NewSearchTest]: 1 2 R
+    Transform message form [number: 0] [name: NewSearchTest]: 1 2 R
+    Correct move!
+    Player 0 [name NewSearchTest] choose (1,2) move to (1 3)
+    Send to player 0 [name: NewSearchTest] infomation : (0 1 2 1 3)
+    Send to player 1 [name: mamisan] infomation : (0 7 4 7 3)
+Step 13:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 0 0 R
+    Transform message form [number: 1] [name: mamisan]: 8 6 L
+    Correct move!
+    Player 1 [name mamisan] choose (8,6) move to (8 5)
+    Send to player 0 [name: NewSearchTest] infomation : (1 8 6 8 5)
+    Send to player 1 [name: mamisan] infomation : (1 0 0 0 1)
+Step 14:
+    Send to player 0 [name: NewSearchTest] a signal: ACTION
+    Receive message form player 0 [name: NewSearchTest]: 0 6 L
+    Transform message form [number: 0] [name: NewSearchTest]: 0 6 L
+    Correct move!
+    Player 0 [name NewSearchTest] choose (0,6) move to (0 5)
+    Send to player 0 [name: NewSearchTest] infomation : (0 0 6 0 5)
+    Send to player 1 [name: mamisan] infomation : (0 8 0 8 1)
+Step 15:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 0 1 R
+    Transform message form [number: 1] [name: mamisan]: 8 5 L
+    Correct move!
+    Player 1 [name mamisan] choose (8,5) move to (8 4)
+    Send to player 0 [name: NewSearchTest] infomation : (1 8 5 8 4)
+    Send to player 1 [name: mamisan] infomation : (1 0 1 0 2)
+Step 16:
+    Send to player 0 [name: NewSearchTest] a signal: ACTION
+    Receive message form player 0 [name: NewSearchTest]: 2 4 L
+    Transform message form [number: 0] [name: NewSearchTest]: 2 4 L
+    Correct move!
+    Player 0 [name NewSearchTest] choose (2,4) move to (2 3)
+    Send to player 0 [name: NewSearchTest] infomation : (0 2 4 2 3)
+    Send to player 1 [name: mamisan] infomation : (0 6 2 6 3)
+Step 17:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 0 2 U
+    Transform message form [number: 1] [name: mamisan]: 8 4 D
+    Correct move!
+    Player 1 [name mamisan] choose (8,4) move to (7 4)
+    Send to player 0 [name: NewSearchTest] infomation : (1 8 4 7 4)
+    Send to player 1 [name: mamisan] infomation : (1 0 2 1 2)
+Step 18:
+    Send to player 0 [name: NewSearchTest] a signal: ACTION
+    Receive message form player 0 [name: NewSearchTest]: 2 6 U
+    Transform message form [number: 0] [name: NewSearchTest]: 2 6 U
+    Correct move!
+    Player 0 [name NewSearchTest] choose (2,6) move to (3 6)
+    Send to player 0 [name: NewSearchTest] infomation : (0 2 6 3 6)
+    Send to player 1 [name: mamisan] infomation : (0 6 0 5 0)
+Step 19:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 1 2 R
+    Transform message form [number: 1] [name: mamisan]: 7 4 L
+    Correct move!
+    Player 1 [name mamisan] choose (7,4) move to (7 3)
+    Send to player 0 [name: NewSearchTest] infomation : (1 7 4 7 3)
+    Send to player 1 [name: mamisan] infomation : (1 1 2 1 3)
+Step 20:
+    Send to player 0 [name: NewSearchTest] a signal: ACTION
+    Receive message form player 0 [name: NewSearchTest]: 2 3 U
+    Transform message form [number: 0] [name: NewSearchTest]: 2 3 U
+    Correct move!
+    Player 0 [name NewSearchTest] choose (2,3) move to (3 3)
+    Send to player 0 [name: NewSearchTest] infomation : (0 2 3 3 3)
+    Send to player 1 [name: mamisan] infomation : (0 6 3 5 3)
+Step 21:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 1 3 U
+    Transform message form [number: 1] [name: mamisan]: 7 3 D
+    Correct move!
+    Player 1 [name mamisan] choose (7,3) move to (6 3)
+    Send to player 0 [name: NewSearchTest] infomation : (1 7 3 6 3)
+    Send to player 1 [name: mamisan] infomation : (1 1 3 2 3)
+Step 22:
+    Send to player 0 [name: NewSearchTest] a signal: ACTION
+    Receive message form player 0 [name: NewSearchTest]: 0 5 U
+    Transform message form [number: 0] [name: NewSearchTest]: 0 5 U
+    Correct move!
+    Player 0 [name NewSearchTest] choose (0,5) move to (1 5)
+    Send to player 0 [name: NewSearchTest] infomation : (0 0 5 1 5)
+    Send to player 1 [name: mamisan] infomation : (0 8 1 7 1)
+Step 23:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 2 3 U
+    Transform message form [number: 1] [name: mamisan]: 6 3 D
+    Correct move!
+    Player 1 [name mamisan] choose (6,3) move to (5 3)
+    Send to player 0 [name: NewSearchTest] infomation : (1 6 3 5 3)
+    Send to player 1 [name: mamisan] infomation : (1 2 3 3 3)
+Step 24:
+    Send to player 0 [name: NewSearchTest] a signal: ACTION
+    Receive message form player 0 [name: NewSearchTest]: 1 5 U
+    Transform message form [number: 0] [name: NewSearchTest]: 1 5 U
+    Correct move!
+    Player 0 [name NewSearchTest] choose (1,5) move to (2 5)
+    Send to player 0 [name: NewSearchTest] infomation : (0 1 5 2 5)
+    Send to player 1 [name: mamisan] infomation : (0 7 1 6 1)
+Step 25:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 3 3 D
+    Transform message form [number: 1] [name: mamisan]: 5 3 U
+    Correct move!
+    Player 1 [name mamisan] choose (5,3) move to (6 3)
+    Send to player 0 [name: NewSearchTest] infomation : (1 5 3 6 3)
+    Send to player 1 [name: mamisan] infomation : (1 3 3 2 3)
+Step 26:
+    Send to player 0 [name: NewSearchTest] a signal: ACTION
+    Receive message form player 0 [name: NewSearchTest]: 2 5 L
+    Transform message form [number: 0] [name: NewSearchTest]: 2 5 L
+    Correct move!
+    Player 0 [name NewSearchTest] choose (2,5) move to (2 4)
+    Send to player 0 [name: NewSearchTest] infomation : (0 2 5 2 4)
+    Send to player 1 [name: mamisan] infomation : (0 6 1 6 2)
+Step 27:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 2 3 L
+    Transform message form [number: 1] [name: mamisan]: 6 3 R
+    Correct move!
+    Player 1 [name mamisan] choose (6,3) move to (6 4)
+    Send to player 0 [name: NewSearchTest] infomation : (1 6 3 6 4)
+    Send to player 1 [name: mamisan] infomation : (1 2 3 2 2)
+Step 28:
+    Send to player 0 [name: NewSearchTest] a signal: ACTION
+    Receive message form player 0 [name: NewSearchTest]: 2 4 U
+    Transform message form [number: 0] [name: NewSearchTest]: 2 4 U
+    Correct move!
+    Player 0 [name NewSearchTest] choose (2,4) move to (6 4)
+    Send to player 0 [name: NewSearchTest] infomation : (0 2 4 6 4)
+    Send to player 1 [name: mamisan] infomation : (0 6 2 2 2)
+Step 29:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 2 4 L
+    Transform message form [number: 1] [name: mamisan]: 6 2 R
+    Correct move!
+    Player 1 [name mamisan] choose (6,2) move to (6 3)
+    Send to player 0 [name: NewSearchTest] infomation : (1 6 2 6 3)
+    Send to player 1 [name: mamisan] infomation : (1 2 4 2 3)
+Step 30:
+    Send to player 0 [name: NewSearchTest] a signal: ACTION
+    Receive message form player 0 [name: NewSearchTest]: 6 4 L
+    Transform message form [number: 0] [name: NewSearchTest]: 6 4 L
+    Correct move!
+    Player 0 [name NewSearchTest] choose (6,4) move to (6 3)
+    Send to player 0 [name: NewSearchTest] infomation : (0 6 4 6 3)
+    Send to player 1 [name: mamisan] infomation : (0 2 2 2 3)
+Step 31:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 0 6 L
+    Transform message form [number: 1] [name: mamisan]: 8 0 R
+    Correct move!
+    Player 1 [name mamisan] choose (8,0) move to (8 1)
+    Send to player 0 [name: NewSearchTest] infomation : (1 8 0 8 1)
+    Send to player 1 [name: mamisan] infomation : (1 0 6 0 5)
+Step 32:
+    Send to player 0 [name: NewSearchTest] a signal: ACTION
+    Receive message form player 0 [name: NewSearchTest]: 6 3 U
+    Transform message form [number: 0] [name: NewSearchTest]: 6 3 U
+    Correct move!
+    Player 0 [name NewSearchTest] choose (6,3) move to (7 3)
+    Send to player 0 [name: NewSearchTest] infomation : (0 6 3 7 3)
+    Send to player 1 [name: mamisan] infomation : (0 2 3 1 3)
+Step 33:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 0 5 L
+    Transform message form [number: 1] [name: mamisan]: 8 1 R
+    Correct move!
+    Player 1 [name mamisan] choose (8,1) move to (8 2)
+    Send to player 0 [name: NewSearchTest] infomation : (1 8 1 8 2)
+    Send to player 1 [name: mamisan] infomation : (1 0 5 0 4)
+Step 34:
+    Send to player 0 [name: NewSearchTest] a signal: ACTION
+    Receive message form player 0 [name: NewSearchTest]: 7 3 U
+    Transform message form [number: 0] [name: NewSearchTest]: 7 3 U
+    Correct move!
+    Player 0 [name NewSearchTest] choose (7,3) move to (8 3)
+    Send to player 0 [name: NewSearchTest] infomation : (0 7 3 8 3)
+    Send to player 1 [name: mamisan] infomation : (0 1 3 0 3)
+    The Player 0 (name NewSearchTest) win the game
+Closing connections:
+    Player 0 [name: NewSearchTest] connection closed succueefully
+    Player 1 [name: mamisan] connection closed succueefully
+Total Steps: 34
+End!

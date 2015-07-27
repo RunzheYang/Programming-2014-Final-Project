@@ -1,0 +1,148 @@
+Initialization:
+    Waiting to connect ...
+    AI0: BreakVoid from 127.0.0.1 connected
+    AI1: HY_ZYH_Final from 127.0.0.1 connected
+    BreakVoid is the first player
+    HY_ZYH_Final is the second player
+Step 1:
+    Send to player 0 [name: BreakVoid] a signal: ACTION
+    Receive message form player 0 [name: BreakVoid]: 2 0 R
+    Transform message form [number: 0] [name: BreakVoid]: 2 0 R
+    Correct move!
+    Player 0 [name BreakVoid] choose (2,0) move to (2 1)
+    Send to player 0 [name: BreakVoid] infomation : (0 2 0 2 1)
+    Send to player 1 [name: HY_ZYH_Final] infomation : (0 6 6 6 5)
+Step 2:
+    Send to player 1 [name: HY_ZYH_Final] a signal: ACTION
+    Receive message form player 1 [name: HY_ZYH_Final]: 1 1 D
+    Transform message form [number: 1] [name: HY_ZYH_Final]: 7 5 U
+    Correct move!
+    Player 1 [name HY_ZYH_Final] choose (7,5) move to (8 5)
+    Send to player 0 [name: BreakVoid] infomation : (1 7 5 8 5)
+    Send to player 1 [name: HY_ZYH_Final] infomation : (1 1 1 0 1)
+Step 3:
+    Send to player 0 [name: BreakVoid] a signal: ACTION
+    Receive message form player 0 [name: BreakVoid]: 2 2 R
+    Transform message form [number: 0] [name: BreakVoid]: 2 2 R
+    Correct move!
+    Player 0 [name BreakVoid] choose (2,2) move to (2 3)
+    Send to player 0 [name: BreakVoid] infomation : (0 2 2 2 3)
+    Send to player 1 [name: HY_ZYH_Final] infomation : (0 6 4 6 3)
+Step 4:
+    Send to player 1 [name: HY_ZYH_Final] a signal: ACTION
+    Receive message form player 1 [name: HY_ZYH_Final]: 2 0 R
+    Transform message form [number: 1] [name: HY_ZYH_Final]: 6 6 L
+    Correct move!
+    Player 1 [name HY_ZYH_Final] choose (6,6) move to (6 5)
+    Send to player 0 [name: BreakVoid] infomation : (1 6 6 6 5)
+    Send to player 1 [name: HY_ZYH_Final] infomation : (1 2 0 2 1)
+Step 5:
+    Send to player 0 [name: BreakVoid] a signal: ACTION
+    Receive message form player 0 [name: BreakVoid]: 2 3 U
+    Transform message form [number: 0] [name: BreakVoid]: 2 3 U
+    Correct move!
+    Player 0 [name BreakVoid] choose (2,3) move to (3 3)
+    Send to player 0 [name: BreakVoid] infomation : (0 2 3 3 3)
+    Send to player 1 [name: HY_ZYH_Final] infomation : (0 6 3 5 3)
+Step 6:
+    Send to player 1 [name: HY_ZYH_Final] a signal: ACTION
+    Receive message form player 1 [name: HY_ZYH_Final]: 2 1 D
+    Transform message form [number: 1] [name: HY_ZYH_Final]: 6 5 U
+    Correct move!
+    Player 1 [name HY_ZYH_Final] choose (6,5) move to (7 5)
+    Send to player 0 [name: BreakVoid] infomation : (1 6 5 7 5)
+    Send to player 1 [name: HY_ZYH_Final] infomation : (1 2 1 1 1)
+Step 7:
+    Send to player 0 [name: BreakVoid] a signal: ACTION
+    Receive message form player 0 [name: BreakVoid]: 2 1 R
+    Transform message form [number: 0] [name: BreakVoid]: 2 1 R
+    Correct move!
+    Player 0 [name BreakVoid] choose (2,1) move to (2 2)
+    Send to player 0 [name: BreakVoid] infomation : (0 2 1 2 2)
+    Send to player 1 [name: HY_ZYH_Final] infomation : (0 6 5 6 4)
+Step 8:
+    Send to player 1 [name: HY_ZYH_Final] a signal: ACTION
+    Receive message form player 1 [name: HY_ZYH_Final]: 1 5 D
+    Transform message form [number: 1] [name: HY_ZYH_Final]: 7 1 U
+    Correct move!
+    Player 1 [name HY_ZYH_Final] choose (7,1) move to (8 1)
+    Send to player 0 [name: BreakVoid] infomation : (1 7 1 8 1)
+    Send to player 1 [name: HY_ZYH_Final] infomation : (1 1 5 0 5)
+Step 9:
+    Send to player 0 [name: BreakVoid] a signal: ACTION
+    Receive message form player 0 [name: BreakVoid]: 2 2 R
+    Transform message form [number: 0] [name: BreakVoid]: 2 2 R
+    Correct move!
+    Player 0 [name BreakVoid] choose (2,2) move to (2 3)
+    Send to player 0 [name: BreakVoid] infomation : (0 2 2 2 3)
+    Send to player 1 [name: HY_ZYH_Final] infomation : (0 6 4 6 3)
+Step 10:
+    Send to player 1 [name: HY_ZYH_Final] a signal: ACTION
+    Receive message form player 1 [name: HY_ZYH_Final]: 1 1 R
+    Transform message form [number: 1] [name: HY_ZYH_Final]: 7 5 L
+    Correct move!
+    Player 1 [name HY_ZYH_Final] choose (7,5) move to (7 4)
+    Send to player 0 [name: BreakVoid] infomation : (1 7 5 7 4)
+    Send to player 1 [name: HY_ZYH_Final] infomation : (1 1 1 1 2)
+Step 11:
+    Send to player 0 [name: BreakVoid] a signal: ACTION
+    Receive message form player 0 [name: BreakVoid]: 2 3 D
+    Transform message form [number: 0] [name: BreakVoid]: 2 3 D
+    Correct move!
+    Player 0 [name BreakVoid] choose (2,3) move to (1 3)
+    Send to player 0 [name: BreakVoid] infomation : (0 2 3 1 3)
+    Send to player 1 [name: HY_ZYH_Final] infomation : (0 6 3 7 3)
+Step 12:
+    Send to player 1 [name: HY_ZYH_Final] a signal: ACTION
+    Receive message form player 1 [name: HY_ZYH_Final]: 1 2 R
+    Transform message form [number: 1] [name: HY_ZYH_Final]: 7 4 L
+    Correct move!
+    Player 1 [name HY_ZYH_Final] choose (7,4) move to (7 3)
+    Send to player 0 [name: BreakVoid] infomation : (1 7 4 7 3)
+    Send to player 1 [name: HY_ZYH_Final] infomation : (1 1 2 1 3)
+Step 13:
+    Send to player 0 [name: BreakVoid] a signal: ACTION
+    Receive message form player 0 [name: BreakVoid]: 2 6 U
+    Transform message form [number: 0] [name: BreakVoid]: 2 6 U
+    Correct move!
+    Player 0 [name BreakVoid] choose (2,6) move to (3 6)
+    Send to player 0 [name: BreakVoid] infomation : (0 2 6 3 6)
+    Send to player 1 [name: HY_ZYH_Final] infomation : (0 6 0 5 0)
+Step 14:
+    Send to player 1 [name: HY_ZYH_Final] a signal: ACTION
+    Receive message form player 1 [name: HY_ZYH_Final]: 0 1 R
+    Transform message form [number: 1] [name: HY_ZYH_Final]: 8 5 L
+    Correct move!
+    Player 1 [name HY_ZYH_Final] choose (8,5) move to (8 4)
+    Send to player 0 [name: BreakVoid] infomation : (1 8 5 8 4)
+    Send to player 1 [name: HY_ZYH_Final] infomation : (1 0 1 0 2)
+Step 15:
+    Send to player 0 [name: BreakVoid] a signal: ACTION
+    Receive message form player 0 [name: BreakVoid]: 3 6 L
+    Transform message form [number: 0] [name: BreakVoid]: 3 6 L
+    Correct move!
+    Player 0 [name BreakVoid] choose (3,6) move to (3 5)
+    Send to player 0 [name: BreakVoid] infomation : (0 3 6 3 5)
+    Send to player 1 [name: HY_ZYH_Final] infomation : (0 5 0 5 1)
+Step 16:
+    Send to player 1 [name: HY_ZYH_Final] a signal: ACTION
+    Receive message form player 1 [name: HY_ZYH_Final]: 0 5 L
+    Transform message form [number: 1] [name: HY_ZYH_Final]: 8 1 R
+    Correct move!
+    Player 1 [name HY_ZYH_Final] choose (8,1) move to (8 2)
+    Send to player 0 [name: BreakVoid] infomation : (1 8 1 8 2)
+    Send to player 1 [name: HY_ZYH_Final] infomation : (1 0 5 0 4)
+Step 17:
+    Send to player 0 [name: BreakVoid] a signal: ACTION
+    Receive message form player 0 [name: BreakVoid]: 1 1 R
+    Transform message form [number: 0] [name: BreakVoid]: 1 1 R
+    Correct move!
+    Player 0 [name BreakVoid] choose (1,1) move to (1 2)
+    Send to player 0 [name: BreakVoid] infomation : (0 1 1 1 2)
+    Send to player 1 [name: HY_ZYH_Final] infomation : (0 7 5 7 4)
+Step 18:
+    Send to player 1 [name: HY_ZYH_Final] a signal: ACTION
+    Receive message from AI1 timeout. AI0 wins.
+    Receive message from AI1 timeout. AI0 wins.
+Total Steps: 18
+End!

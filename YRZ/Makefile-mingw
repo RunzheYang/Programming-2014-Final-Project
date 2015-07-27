@@ -1,0 +1,38 @@
+## Programming 2014 Final project
+## Mingw Makefile of the Animal
+## You might want to add -O2 to CFLAGS after debug.
+## Change BOOST_PATH to the location where boost is located
+
+BOOST_PATH = C:\boost_1_55_0
+AI = player
+
+TARGET = client.exe
+LIBS = -lws2_32 -lmswsock -l:libboost_system-mgw48-mt-1_55.a
+CXX = g++
+#CFLAGS = -std=c++11 -Wall -Wextra -g -D_WIN32_WINNT=0x0601 -I${BOOST_PATH}		## use this for debug
+CFLAGS = -std=c++11 -O2 -DNDEBUG -D_WIN32_WINNT=0x0601 -I${BOOST_PATH}
+LIB_PATH = -L${BOOST_PATH}\stage\lib
+
+HEADERS = network.h player.h 
+OBJECTS = ${AI}.o main.o
+
+.PHONY: all clean
+.PRECIOUS: $(TARGET) $(OBJECTS)
+
+all: ${TARGET}
+
+${TARGET}: ${OBJECTS}
+
+${AI}.o: player.h ${AI}.cpp
+	${CXX} ${CFLAGS} -c -o ${AI}.o ${AI}.cpp ${LIB_PATH}
+
+main.o: network.h main.cpp
+	${CXX} ${CFLAGS} -c -o main.o main.cpp ${LIB_PATH}
+
+
+${TARGET}: ${OBJECTS}
+	${CXX} ${OBJECTS} -Wall ${LIBS} -o ${TARGET}  ${LIB_PATH}
+
+clean:
+	-rm *.o
+	-rm ${TARGET}

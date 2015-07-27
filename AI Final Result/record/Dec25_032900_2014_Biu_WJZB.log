@@ -1,0 +1,188 @@
+Initialization:
+    Waiting to connect ...
+    AI0: Biu from 127.0.0.1 connected
+    AI1: WJZB from 127.0.0.1 connected
+    WJZB is the first player
+    Biu is the second player
+Step 1:
+    Send to player 1 [name: WJZB] a signal: ACTION
+    Receive message form player 1 [name: WJZB]: 2 2 D
+    Transform message form [number: 1] [name: WJZB]: 6 4 U
+    Correct move!
+    Player 1 [name WJZB] choose (6,4) move to (7 4)
+    Send to player 0 [name: Biu] infomation : (1 6 4 7 4)
+    Send to player 1 [name: WJZB] infomation : (1 2 2 1 2)
+Step 2:
+    Send to player 0 [name: Biu] a signal: ACTION
+    Receive message form player 0 [name: Biu]: 0 6 U
+    Transform message form [number: 0] [name: Biu]: 0 6 U
+    Correct move!
+    Player 0 [name Biu] choose (0,6) move to (1 6)
+    Send to player 0 [name: Biu] infomation : (0 0 6 1 6)
+    Send to player 1 [name: WJZB] infomation : (0 8 0 7 0)
+Step 3:
+    Send to player 1 [name: WJZB] a signal: ACTION
+    Receive message form player 1 [name: WJZB]: 1 2 D
+    Transform message form [number: 1] [name: WJZB]: 7 4 U
+    Correct move!
+    Player 1 [name WJZB] choose (7,4) move to (8 4)
+    Send to player 0 [name: Biu] infomation : (1 7 4 8 4)
+    Send to player 1 [name: WJZB] infomation : (1 1 2 0 2)
+Step 4:
+    Send to player 0 [name: Biu] a signal: ACTION
+    Receive message form player 0 [name: Biu]: 0 0 U
+    Transform message form [number: 0] [name: Biu]: 0 0 U
+    Correct move!
+    Player 0 [name Biu] choose (0,0) move to (1 0)
+    Send to player 0 [name: Biu] infomation : (0 0 0 1 0)
+    Send to player 1 [name: WJZB] infomation : (0 8 6 7 6)
+Step 5:
+    Send to player 1 [name: WJZB] a signal: ACTION
+    Receive message form player 1 [name: WJZB]: 2 4 D
+    Transform message form [number: 1] [name: WJZB]: 6 2 U
+    Correct move!
+    Player 1 [name WJZB] choose (6,2) move to (7 2)
+    Send to player 0 [name: Biu] infomation : (1 6 2 7 2)
+    Send to player 1 [name: WJZB] infomation : (1 2 4 1 4)
+Step 6:
+    Send to player 0 [name: Biu] a signal: ACTION
+    Receive message form player 0 [name: Biu]: 2 0 R
+    Transform message form [number: 0] [name: Biu]: 2 0 R
+    Correct move!
+    Player 0 [name Biu] choose (2,0) move to (2 1)
+    Send to player 0 [name: Biu] infomation : (0 2 0 2 1)
+    Send to player 1 [name: WJZB] infomation : (0 6 6 6 5)
+Step 7:
+    Send to player 1 [name: WJZB] a signal: ACTION
+    Receive message form player 1 [name: WJZB]: 1 4 D
+    Transform message form [number: 1] [name: WJZB]: 7 2 U
+    Correct move!
+    Player 1 [name WJZB] choose (7,2) move to (8 2)
+    Send to player 0 [name: Biu] infomation : (1 7 2 8 2)
+    Send to player 1 [name: WJZB] infomation : (1 1 4 0 4)
+Step 8:
+    Send to player 0 [name: Biu] a signal: ACTION
+    Receive message form player 0 [name: Biu]: 1 0 U
+    Transform message form [number: 0] [name: Biu]: 1 0 U
+    Correct move!
+    Player 0 [name Biu] choose (1,0) move to (2 0)
+    Send to player 0 [name: Biu] infomation : (0 1 0 2 0)
+    Send to player 1 [name: WJZB] infomation : (0 7 6 6 6)
+Step 9:
+    Send to player 1 [name: WJZB] a signal: ACTION
+    Receive message form player 1 [name: WJZB]: 1 5 D
+    Transform message form [number: 1] [name: WJZB]: 7 1 U
+    Correct move!
+    Player 1 [name WJZB] choose (7,1) move to (8 1)
+    Send to player 0 [name: Biu] infomation : (1 7 1 8 1)
+    Send to player 1 [name: WJZB] infomation : (1 1 5 0 5)
+Step 10:
+    Send to player 0 [name: Biu] a signal: ACTION
+    Receive message form player 0 [name: Biu]: 2 0 U
+    Transform message form [number: 0] [name: Biu]: 2 0 U
+    Correct move!
+    Player 0 [name Biu] choose (2,0) move to (3 0)
+    Send to player 0 [name: Biu] infomation : (0 2 0 3 0)
+    Send to player 1 [name: WJZB] infomation : (0 6 6 5 6)
+Step 11:
+    Send to player 1 [name: WJZB] a signal: ACTION
+    Receive message form player 1 [name: WJZB]: 2 6 D
+    Transform message form [number: 1] [name: WJZB]: 6 0 U
+    Correct move!
+    Player 1 [name WJZB] choose (6,0) move to (7 0)
+    Send to player 0 [name: Biu] infomation : (1 6 0 7 0)
+    Send to player 1 [name: WJZB] infomation : (1 2 6 1 6)
+Step 12:
+    Send to player 0 [name: Biu] a signal: ACTION
+    Receive message form player 0 [name: Biu]: 3 0 R
+    Transform message form [number: 0] [name: Biu]: 3 0 R
+    Correct move!
+    Player 0 [name Biu] choose (3,0) move to (3 3)
+    Send to player 0 [name: Biu] infomation : (0 3 0 3 3)
+    Send to player 1 [name: WJZB] infomation : (0 5 6 5 3)
+Step 13:
+    Send to player 1 [name: WJZB] a signal: ACTION
+    Receive message form player 1 [name: WJZB]: 1 1 D
+    Transform message form [number: 1] [name: WJZB]: 7 5 U
+    Correct move!
+    Player 1 [name WJZB] choose (7,5) move to (8 5)
+    Send to player 0 [name: Biu] infomation : (1 7 5 8 5)
+    Send to player 1 [name: WJZB] infomation : (1 1 1 0 1)
+Step 14:
+    Send to player 0 [name: Biu] a signal: ACTION
+    Receive message form player 0 [name: Biu]: 3 3 U
+    Transform message form [number: 0] [name: Biu]: 3 3 U
+    Correct move!
+    Player 0 [name Biu] choose (3,3) move to (4 3)
+    Send to player 0 [name: Biu] infomation : (0 3 3 4 3)
+    Send to player 1 [name: WJZB] infomation : (0 5 3 4 3)
+Step 15:
+    Send to player 1 [name: WJZB] a signal: ACTION
+    Receive message form player 1 [name: WJZB]: 2 0 D
+    Transform message form [number: 1] [name: WJZB]: 6 6 U
+    Correct move!
+    Player 1 [name WJZB] choose (6,6) move to (7 6)
+    Send to player 0 [name: Biu] infomation : (1 6 6 7 6)
+    Send to player 1 [name: WJZB] infomation : (1 2 0 1 0)
+Step 16:
+    Send to player 0 [name: Biu] a signal: ACTION
+    Receive message form player 0 [name: Biu]: 4 3 U
+    Transform message form [number: 0] [name: Biu]: 4 3 U
+    Correct move!
+    Player 0 [name Biu] choose (4,3) move to (5 3)
+    Send to player 0 [name: Biu] infomation : (0 4 3 5 3)
+    Send to player 1 [name: WJZB] infomation : (0 4 3 3 3)
+Step 17:
+    Send to player 1 [name: WJZB] a signal: ACTION
+    Receive message form player 1 [name: WJZB]: 1 0 R
+    Transform message form [number: 1] [name: WJZB]: 7 6 L
+    Correct move!
+    Player 1 [name WJZB] choose (7,6) move to (7 5)
+    Send to player 0 [name: Biu] infomation : (1 7 6 7 5)
+    Send to player 1 [name: WJZB] infomation : (1 1 0 1 1)
+Step 18:
+    Send to player 0 [name: Biu] a signal: ACTION
+    Receive message form player 0 [name: Biu]: 5 3 U
+    Transform message form [number: 0] [name: Biu]: 5 3 U
+    Correct move!
+    Player 0 [name Biu] choose (5,3) move to (6 3)
+    Send to player 0 [name: Biu] infomation : (0 5 3 6 3)
+    Send to player 1 [name: WJZB] infomation : (0 3 3 2 3)
+Step 19:
+    Send to player 1 [name: WJZB] a signal: ACTION
+    Receive message form player 1 [name: WJZB]: 1 1 L
+    Transform message form [number: 1] [name: WJZB]: 7 5 R
+    Correct move!
+    Player 1 [name WJZB] choose (7,5) move to (7 6)
+    Send to player 0 [name: Biu] infomation : (1 7 5 7 6)
+    Send to player 1 [name: WJZB] infomation : (1 1 1 1 0)
+Step 20:
+    Send to player 0 [name: Biu] a signal: ACTION
+    Receive message form player 0 [name: Biu]: 6 3 U
+    Transform message form [number: 0] [name: Biu]: 6 3 U
+    Correct move!
+    Player 0 [name Biu] choose (6,3) move to (7 3)
+    Send to player 0 [name: Biu] infomation : (0 6 3 7 3)
+    Send to player 1 [name: WJZB] infomation : (0 2 3 1 3)
+Step 21:
+    Send to player 1 [name: WJZB] a signal: ACTION
+    Receive message form player 1 [name: WJZB]: 1 6 U
+    Transform message form [number: 1] [name: WJZB]: 7 0 D
+    Correct move!
+    Player 1 [name WJZB] choose (7,0) move to (6 0)
+    Send to player 0 [name: Biu] infomation : (1 7 0 6 0)
+    Send to player 1 [name: WJZB] infomation : (1 1 6 2 6)
+Step 22:
+    Send to player 0 [name: Biu] a signal: ACTION
+    Receive message form player 0 [name: Biu]: 7 3 U
+    Transform message form [number: 0] [name: Biu]: 7 3 U
+    Correct move!
+    Player 0 [name Biu] choose (7,3) move to (8 3)
+    Send to player 0 [name: Biu] infomation : (0 7 3 8 3)
+    Send to player 1 [name: WJZB] infomation : (0 1 3 0 3)
+    The Player 0 (name Biu) win the game
+Closing connections:
+    Player 0 [name: Biu] connection closed succueefully
+    Player 1 [name: WJZB] connection closed succueefully
+Total Steps: 22
+End!

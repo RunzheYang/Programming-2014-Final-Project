@@ -1,0 +1,362 @@
+Initialization:
+    Waiting to connect ...
+    AI0: XIQCX from 127.0.0.1 connected
+    AI1: mamisan from 127.0.0.1 connected
+    XIQCX is the first player
+    mamisan is the second player
+Step 1:
+    Send to player 0 [name: XIQCX] a signal: ACTION
+    Receive message form player 0 [name: XIQCX]: 2 6 U
+    Transform message form [number: 0] [name: XIQCX]: 2 6 U
+    Correct move!
+    Player 0 [name XIQCX] choose (2,6) move to (3 6)
+    Send to player 0 [name: XIQCX] infomation : (0 2 6 3 6)
+    Send to player 1 [name: mamisan] infomation : (0 6 0 5 0)
+Step 2:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 2 2 R
+    Transform message form [number: 1] [name: mamisan]: 6 4 L
+    Correct move!
+    Player 1 [name mamisan] choose (6,4) move to (6 3)
+    Send to player 0 [name: XIQCX] infomation : (1 6 4 6 3)
+    Send to player 1 [name: mamisan] infomation : (1 2 2 2 3)
+Step 3:
+    Send to player 0 [name: XIQCX] a signal: ACTION
+    Receive message form player 0 [name: XIQCX]: 3 6 D
+    Transform message form [number: 0] [name: XIQCX]: 3 6 D
+    Correct move!
+    Player 0 [name XIQCX] choose (3,6) move to (2 6)
+    Send to player 0 [name: XIQCX] infomation : (0 3 6 2 6)
+    Send to player 1 [name: mamisan] infomation : (0 5 0 6 0)
+Step 4:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 2 3 U
+    Transform message form [number: 1] [name: mamisan]: 6 3 D
+    Correct move!
+    Player 1 [name mamisan] choose (6,3) move to (5 3)
+    Send to player 0 [name: XIQCX] infomation : (1 6 3 5 3)
+    Send to player 1 [name: mamisan] infomation : (1 2 3 3 3)
+Step 5:
+    Send to player 0 [name: XIQCX] a signal: ACTION
+    Receive message form player 0 [name: XIQCX]: 0 0 R
+    Transform message form [number: 0] [name: XIQCX]: 0 0 R
+    Correct move!
+    Player 0 [name XIQCX] choose (0,0) move to (0 1)
+    Send to player 0 [name: XIQCX] infomation : (0 0 0 0 1)
+    Send to player 1 [name: mamisan] infomation : (0 8 6 8 5)
+Step 6:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 3 3 U
+    Transform message form [number: 1] [name: mamisan]: 5 3 D
+    Correct move!
+    Player 1 [name mamisan] choose (5,3) move to (4 3)
+    Send to player 0 [name: XIQCX] infomation : (1 5 3 4 3)
+    Send to player 1 [name: mamisan] infomation : (1 3 3 4 3)
+Step 7:
+    Send to player 0 [name: XIQCX] a signal: ACTION
+    Receive message form player 0 [name: XIQCX]: 2 2 R
+    Transform message form [number: 0] [name: XIQCX]: 2 2 R
+    Correct move!
+    Player 0 [name XIQCX] choose (2,2) move to (2 3)
+    Send to player 0 [name: XIQCX] infomation : (0 2 2 2 3)
+    Send to player 1 [name: mamisan] infomation : (0 6 4 6 3)
+Step 8:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 2 4 L
+    Transform message form [number: 1] [name: mamisan]: 6 2 R
+    Correct move!
+    Player 1 [name mamisan] choose (6,2) move to (6 3)
+    Send to player 0 [name: XIQCX] infomation : (1 6 2 6 3)
+    Send to player 1 [name: mamisan] infomation : (1 2 4 2 3)
+Step 9:
+    Send to player 0 [name: XIQCX] a signal: ACTION
+    Receive message form player 0 [name: XIQCX]: 2 6 U
+    Transform message form [number: 0] [name: XIQCX]: 2 6 U
+    Correct move!
+    Player 0 [name XIQCX] choose (2,6) move to (3 6)
+    Send to player 0 [name: XIQCX] infomation : (0 2 6 3 6)
+    Send to player 1 [name: mamisan] infomation : (0 6 0 5 0)
+Step 10:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 4 3 U
+    Transform message form [number: 1] [name: mamisan]: 4 3 D
+    Correct move!
+    Player 1 [name mamisan] choose (4,3) move to (3 3)
+    Send to player 0 [name: XIQCX] infomation : (1 4 3 3 3)
+    Send to player 1 [name: mamisan] infomation : (1 4 3 5 3)
+Step 11:
+    Send to player 0 [name: XIQCX] a signal: ACTION
+    Receive message form player 0 [name: XIQCX]: 1 5 R
+    Transform message form [number: 0] [name: XIQCX]: 1 5 R
+    Correct move!
+    Player 0 [name XIQCX] choose (1,5) move to (1 6)
+    Send to player 0 [name: XIQCX] infomation : (0 1 5 1 6)
+    Send to player 1 [name: mamisan] infomation : (0 7 1 7 0)
+Step 12:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 5 3 U
+    Transform message form [number: 1] [name: mamisan]: 3 3 D
+    Correct move!
+    Player 1 [name mamisan] choose (3,3) move to (2 3)
+    Send to player 0 [name: XIQCX] infomation : (1 3 3 2 3)
+    Send to player 1 [name: mamisan] infomation : (1 5 3 6 3)
+Step 13:
+    Send to player 0 [name: XIQCX] a signal: ACTION
+    Receive message form player 0 [name: XIQCX]: 1 1 R
+    Transform message form [number: 0] [name: XIQCX]: 1 1 R
+    Correct move!
+    Player 0 [name XIQCX] choose (1,1) move to (1 2)
+    Send to player 0 [name: XIQCX] infomation : (0 1 1 1 2)
+    Send to player 1 [name: mamisan] infomation : (0 7 5 7 4)
+Step 14:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 6 3 U
+    Transform message form [number: 1] [name: mamisan]: 2 3 D
+    Correct move!
+    Player 1 [name mamisan] choose (2,3) move to (1 3)
+    Send to player 0 [name: XIQCX] infomation : (1 2 3 1 3)
+    Send to player 1 [name: mamisan] infomation : (1 6 3 7 3)
+Step 15:
+    Send to player 0 [name: XIQCX] a signal: ACTION
+    Receive message form player 0 [name: XIQCX]: 1 2 R
+    Transform message form [number: 0] [name: XIQCX]: 1 2 R
+    Correct move!
+    Player 0 [name XIQCX] choose (1,2) move to (1 3)
+    Send to player 0 [name: XIQCX] infomation : (0 1 2 1 3)
+    Send to player 1 [name: mamisan] infomation : (0 7 4 7 3)
+Step 16:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 2 3 U
+    Transform message form [number: 1] [name: mamisan]: 6 3 D
+    Correct move!
+    Player 1 [name mamisan] choose (6,3) move to (5 3)
+    Send to player 0 [name: XIQCX] infomation : (1 6 3 5 3)
+    Send to player 1 [name: mamisan] infomation : (1 2 3 3 3)
+Step 17:
+    Send to player 0 [name: XIQCX] a signal: ACTION
+    Receive message form player 0 [name: XIQCX]: 1 6 L
+    Transform message form [number: 0] [name: XIQCX]: 1 6 L
+    Correct move!
+    Player 0 [name XIQCX] choose (1,6) move to (1 5)
+    Send to player 0 [name: XIQCX] infomation : (0 1 6 1 5)
+    Send to player 1 [name: mamisan] infomation : (0 7 0 7 1)
+Step 18:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 3 3 U
+    Transform message form [number: 1] [name: mamisan]: 5 3 D
+    Correct move!
+    Player 1 [name mamisan] choose (5,3) move to (4 3)
+    Send to player 0 [name: XIQCX] infomation : (1 5 3 4 3)
+    Send to player 1 [name: mamisan] infomation : (1 3 3 4 3)
+Step 19:
+    Send to player 0 [name: XIQCX] a signal: ACTION
+    Receive message form player 0 [name: XIQCX]: 0 1 U
+    Transform message form [number: 0] [name: XIQCX]: 0 1 U
+    Correct move!
+    Player 0 [name XIQCX] choose (0,1) move to (1 1)
+    Send to player 0 [name: XIQCX] infomation : (0 0 1 1 1)
+    Send to player 1 [name: mamisan] infomation : (0 8 5 7 5)
+Step 20:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 4 3 U
+    Transform message form [number: 1] [name: mamisan]: 4 3 D
+    Correct move!
+    Player 1 [name mamisan] choose (4,3) move to (3 3)
+    Send to player 0 [name: XIQCX] infomation : (1 4 3 3 3)
+    Send to player 1 [name: mamisan] infomation : (1 4 3 5 3)
+Step 21:
+    Send to player 0 [name: XIQCX] a signal: ACTION
+    Receive message form player 0 [name: XIQCX]: 3 6 L
+    Transform message form [number: 0] [name: XIQCX]: 3 6 L
+    Correct move!
+    Player 0 [name XIQCX] choose (3,6) move to (3 5)
+    Send to player 0 [name: XIQCX] infomation : (0 3 6 3 5)
+    Send to player 1 [name: mamisan] infomation : (0 5 0 5 1)
+Step 22:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 5 3 U
+    Transform message form [number: 1] [name: mamisan]: 3 3 D
+    Correct move!
+    Player 1 [name mamisan] choose (3,3) move to (2 3)
+    Send to player 0 [name: XIQCX] infomation : (1 3 3 2 3)
+    Send to player 1 [name: mamisan] infomation : (1 5 3 6 3)
+Step 23:
+    Send to player 0 [name: XIQCX] a signal: ACTION
+    Receive message form player 0 [name: XIQCX]: 2 4 D
+    Transform message form [number: 0] [name: XIQCX]: 2 4 D
+    Correct move!
+    Player 0 [name XIQCX] choose (2,4) move to (1 4)
+    Send to player 0 [name: XIQCX] infomation : (0 2 4 1 4)
+    Send to player 1 [name: mamisan] infomation : (0 6 2 7 2)
+Step 24:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 6 3 U
+    Transform message form [number: 1] [name: mamisan]: 2 3 D
+    Correct move!
+    Player 1 [name mamisan] choose (2,3) move to (1 3)
+    Send to player 0 [name: XIQCX] infomation : (1 2 3 1 3)
+    Send to player 1 [name: mamisan] infomation : (1 6 3 7 3)
+Step 25:
+    Send to player 0 [name: XIQCX] a signal: ACTION
+    Receive message form player 0 [name: XIQCX]: 1 4 L
+    Transform message form [number: 0] [name: XIQCX]: 1 4 L
+    Correct move!
+    Player 0 [name XIQCX] choose (1,4) move to (1 3)
+    Send to player 0 [name: XIQCX] infomation : (0 1 4 1 3)
+    Send to player 1 [name: mamisan] infomation : (0 7 2 7 3)
+Step 26:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 0 0 R
+    Transform message form [number: 1] [name: mamisan]: 8 6 L
+    Correct move!
+    Player 1 [name mamisan] choose (8,6) move to (8 5)
+    Send to player 0 [name: XIQCX] infomation : (1 8 6 8 5)
+    Send to player 1 [name: mamisan] infomation : (1 0 0 0 1)
+Step 27:
+    Send to player 0 [name: XIQCX] a signal: ACTION
+    Receive message form player 0 [name: XIQCX]: 3 5 L
+    Transform message form [number: 0] [name: XIQCX]: 3 5 L
+    Correct move!
+    Player 0 [name XIQCX] choose (3,5) move to (3 4)
+    Send to player 0 [name: XIQCX] infomation : (0 3 5 3 4)
+    Send to player 1 [name: mamisan] infomation : (0 5 1 5 2)
+Step 28:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 0 6 L
+    Transform message form [number: 1] [name: mamisan]: 8 0 R
+    Correct move!
+    Player 1 [name mamisan] choose (8,0) move to (8 1)
+    Send to player 0 [name: XIQCX] infomation : (1 8 0 8 1)
+    Send to player 1 [name: mamisan] infomation : (1 0 6 0 5)
+Step 29:
+    Send to player 0 [name: XIQCX] a signal: ACTION
+    Receive message form player 0 [name: XIQCX]: 3 4 R
+    Transform message form [number: 0] [name: XIQCX]: 3 4 R
+    Correct move!
+    Player 0 [name XIQCX] choose (3,4) move to (3 5)
+    Send to player 0 [name: XIQCX] infomation : (0 3 4 3 5)
+    Send to player 1 [name: mamisan] infomation : (0 5 2 5 1)
+Step 30:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 0 1 R
+    Transform message form [number: 1] [name: mamisan]: 8 5 L
+    Correct move!
+    Player 1 [name mamisan] choose (8,5) move to (8 4)
+    Send to player 0 [name: XIQCX] infomation : (1 8 5 8 4)
+    Send to player 1 [name: mamisan] infomation : (1 0 1 0 2)
+Step 31:
+    Send to player 0 [name: XIQCX] a signal: ACTION
+    Receive message form player 0 [name: XIQCX]: 3 5 L
+    Transform message form [number: 0] [name: XIQCX]: 3 5 L
+    Correct move!
+    Player 0 [name XIQCX] choose (3,5) move to (3 4)
+    Send to player 0 [name: XIQCX] infomation : (0 3 5 3 4)
+    Send to player 1 [name: mamisan] infomation : (0 5 1 5 2)
+Step 32:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 0 5 L
+    Transform message form [number: 1] [name: mamisan]: 8 1 R
+    Correct move!
+    Player 1 [name mamisan] choose (8,1) move to (8 2)
+    Send to player 0 [name: XIQCX] infomation : (1 8 1 8 2)
+    Send to player 1 [name: mamisan] infomation : (1 0 5 0 4)
+Step 33:
+    Send to player 0 [name: XIQCX] a signal: ACTION
+    Receive message form player 0 [name: XIQCX]: 1 1 U
+    Transform message form [number: 0] [name: XIQCX]: 1 1 U
+    Correct move!
+    Player 0 [name XIQCX] choose (1,1) move to (2 1)
+    Send to player 0 [name: XIQCX] infomation : (0 1 1 2 1)
+    Send to player 1 [name: mamisan] infomation : (0 7 5 6 5)
+Step 34:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 0 4 U
+    Transform message form [number: 1] [name: mamisan]: 8 2 D
+    Correct move!
+    Player 1 [name mamisan] choose (8,2) move to (7 2)
+    Send to player 0 [name: XIQCX] infomation : (1 8 2 7 2)
+    Send to player 1 [name: mamisan] infomation : (1 0 4 1 4)
+Step 35:
+    Send to player 0 [name: XIQCX] a signal: ACTION
+    Receive message form player 0 [name: XIQCX]: 1 5 R
+    Transform message form [number: 0] [name: XIQCX]: 1 5 R
+    Correct move!
+    Player 0 [name XIQCX] choose (1,5) move to (1 6)
+    Send to player 0 [name: XIQCX] infomation : (0 1 5 1 6)
+    Send to player 1 [name: mamisan] infomation : (0 7 1 7 0)
+Step 36:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 1 4 U
+    Transform message form [number: 1] [name: mamisan]: 7 2 D
+    Correct move!
+    Player 1 [name mamisan] choose (7,2) move to (6 2)
+    Send to player 0 [name: XIQCX] infomation : (1 7 2 6 2)
+    Send to player 1 [name: mamisan] infomation : (1 1 4 2 4)
+Step 37:
+    Send to player 0 [name: XIQCX] a signal: ACTION
+    Receive message form player 0 [name: XIQCX]: 1 3 R
+    Transform message form [number: 0] [name: XIQCX]: 1 3 R
+    Correct move!
+    Player 0 [name XIQCX] choose (1,3) move to (1 4)
+    Send to player 0 [name: XIQCX] infomation : (0 1 3 1 4)
+    Send to player 1 [name: mamisan] infomation : (0 7 3 7 2)
+Step 38:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 2 4 U
+    Transform message form [number: 1] [name: mamisan]: 6 2 D
+    Correct move!
+    Player 1 [name mamisan] choose (6,2) move to (2 2)
+    Send to player 0 [name: XIQCX] infomation : (1 6 2 2 2)
+    Send to player 1 [name: mamisan] infomation : (1 2 4 6 4)
+Step 39:
+    Send to player 0 [name: XIQCX] a signal: ACTION
+    Receive message form player 0 [name: XIQCX]: 3 4 U
+    Transform message form [number: 0] [name: XIQCX]: 3 4 U
+    Correct move!
+    Player 0 [name XIQCX] choose (3,4) move to (4 4)
+    Send to player 0 [name: XIQCX] infomation : (0 3 4 4 4)
+    Send to player 1 [name: mamisan] infomation : (0 5 2 4 2)
+Step 40:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 6 4 U
+    Transform message form [number: 1] [name: mamisan]: 2 2 D
+    Correct move!
+    Player 1 [name mamisan] choose (2,2) move to (1 2)
+    Send to player 0 [name: XIQCX] infomation : (1 2 2 1 2)
+    Send to player 1 [name: mamisan] infomation : (1 6 4 7 4)
+Step 41:
+    Send to player 0 [name: XIQCX] a signal: ACTION
+    Receive message form player 0 [name: XIQCX]: 3 4 U
+    Transform message form [number: 0] [name: XIQCX]: 3 4 U
+    try to use uncorrect role
+    Invalid chess piece: ['3', '4', 'U']
+    The limit of invalid action of player 0 (name XIQCX) is 2
+Step 42:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 7 4 U
+    Transform message form [number: 1] [name: mamisan]: 1 2 D
+    Correct move!
+    Player 1 [name mamisan] choose (1,2) move to (0 2)
+    Send to player 0 [name: XIQCX] infomation : (1 1 2 0 2)
+    Send to player 1 [name: mamisan] infomation : (1 7 4 8 4)
+Step 43:
+    Send to player 0 [name: XIQCX] a signal: ACTION
+    Receive message form player 0 [name: XIQCX]: 3 4 U
+    Transform message form [number: 0] [name: XIQCX]: 3 4 U
+    try to use uncorrect role
+    Invalid chess piece: ['3', '4', 'U']
+    The limit of invalid action of player 0 (name XIQCX) is 1
+Step 44:
+    Send to player 1 [name: mamisan] a signal: ACTION
+    Receive message form player 1 [name: mamisan]: 8 4 L
+    Transform message form [number: 1] [name: mamisan]: 0 2 R
+    Correct move!
+    Player 1 [name mamisan] choose (0,2) move to (0 3)
+    Send to player 0 [name: XIQCX] infomation : (1 0 2 0 3)
+    Send to player 1 [name: mamisan] infomation : (1 8 4 8 3)
+    The Player 1 (name mamisan) win the game
+Closing connections:
+    Player 0 [name: XIQCX] connection closed succueefully
+    Player 1 [name: mamisan] connection closed succueefully
+Total Steps: 44
+End!

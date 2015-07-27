@@ -1,0 +1,332 @@
+Initialization:
+    Waiting to connect ...
+    AI0: mamisan from 127.0.0.1 connected
+    AI1: Lee Algebra from 127.0.0.1 connected
+    mamisan is the first player
+    Lee Algebra is the second player
+Step 1:
+    Send to player 0 [name: mamisan] a signal: ACTION
+    Receive message form player 0 [name: mamisan]: 2 2 R
+    Transform message form [number: 0] [name: mamisan]: 2 2 R
+    Correct move!
+    Player 0 [name mamisan] choose (2,2) move to (2 3)
+    Send to player 0 [name: mamisan] infomation : (0 2 2 2 3)
+    Send to player 1 [name: Lee Algebra] infomation : (0 6 4 6 3)
+Step 2:
+    Send to player 1 [name: Lee Algebra] a signal: ACTION
+    Receive message form player 1 [name: Lee Algebra]: 0 0 U
+    Transform message form [number: 1] [name: Lee Algebra]: 8 6 D
+    Correct move!
+    Player 1 [name Lee Algebra] choose (8,6) move to (7 6)
+    Send to player 0 [name: mamisan] infomation : (1 8 6 7 6)
+    Send to player 1 [name: Lee Algebra] infomation : (1 0 0 1 0)
+Step 3:
+    Send to player 0 [name: mamisan] a signal: ACTION
+    Receive message form player 0 [name: mamisan]: 2 3 U
+    Transform message form [number: 0] [name: mamisan]: 2 3 U
+    Correct move!
+    Player 0 [name mamisan] choose (2,3) move to (3 3)
+    Send to player 0 [name: mamisan] infomation : (0 2 3 3 3)
+    Send to player 1 [name: Lee Algebra] infomation : (0 6 3 5 3)
+Step 4:
+    Send to player 1 [name: Lee Algebra] a signal: ACTION
+    Receive message form player 1 [name: Lee Algebra]: 0 6 L
+    Transform message form [number: 1] [name: Lee Algebra]: 8 0 R
+    Correct move!
+    Player 1 [name Lee Algebra] choose (8,0) move to (8 1)
+    Send to player 0 [name: mamisan] infomation : (1 8 0 8 1)
+    Send to player 1 [name: Lee Algebra] infomation : (1 0 6 0 5)
+Step 5:
+    Send to player 0 [name: mamisan] a signal: ACTION
+    Receive message form player 0 [name: mamisan]: 3 3 U
+    Transform message form [number: 0] [name: mamisan]: 3 3 U
+    Correct move!
+    Player 0 [name mamisan] choose (3,3) move to (4 3)
+    Send to player 0 [name: mamisan] infomation : (0 3 3 4 3)
+    Send to player 1 [name: Lee Algebra] infomation : (0 5 3 4 3)
+Step 6:
+    Send to player 1 [name: Lee Algebra] a signal: ACTION
+    Receive message form player 1 [name: Lee Algebra]: 2 0 R
+    Transform message form [number: 1] [name: Lee Algebra]: 6 6 L
+    Correct move!
+    Player 1 [name Lee Algebra] choose (6,6) move to (6 5)
+    Send to player 0 [name: mamisan] infomation : (1 6 6 6 5)
+    Send to player 1 [name: Lee Algebra] infomation : (1 2 0 2 1)
+Step 7:
+    Send to player 0 [name: mamisan] a signal: ACTION
+    Receive message form player 0 [name: mamisan]: 4 3 U
+    Transform message form [number: 0] [name: mamisan]: 4 3 U
+    Correct move!
+    Player 0 [name mamisan] choose (4,3) move to (5 3)
+    Send to player 0 [name: mamisan] infomation : (0 4 3 5 3)
+    Send to player 1 [name: Lee Algebra] infomation : (0 4 3 3 3)
+Step 8:
+    Send to player 1 [name: Lee Algebra] a signal: ACTION
+    Receive message form player 1 [name: Lee Algebra]: 0 5 L
+    Transform message form [number: 1] [name: Lee Algebra]: 8 1 R
+    Correct move!
+    Player 1 [name Lee Algebra] choose (8,1) move to (8 2)
+    Send to player 0 [name: mamisan] infomation : (1 8 1 8 2)
+    Send to player 1 [name: Lee Algebra] infomation : (1 0 5 0 4)
+Step 9:
+    Send to player 0 [name: mamisan] a signal: ACTION
+    Receive message form player 0 [name: mamisan]: 5 3 U
+    Transform message form [number: 0] [name: mamisan]: 5 3 U
+    Correct move!
+    Player 0 [name mamisan] choose (5,3) move to (6 3)
+    Send to player 0 [name: mamisan] infomation : (0 5 3 6 3)
+    Send to player 1 [name: Lee Algebra] infomation : (0 3 3 2 3)
+Step 10:
+    Send to player 1 [name: Lee Algebra] a signal: ACTION
+    Receive message form player 1 [name: Lee Algebra]: 2 2 R
+    Transform message form [number: 1] [name: Lee Algebra]: 6 4 L
+    Correct move!
+    Player 1 [name Lee Algebra] choose (6,4) move to (6 3)
+    Send to player 0 [name: mamisan] infomation : (1 6 4 6 3)
+    Send to player 1 [name: Lee Algebra] infomation : (1 2 2 2 3)
+Step 11:
+    Send to player 0 [name: mamisan] a signal: ACTION
+    Receive message form player 0 [name: mamisan]: 2 4 L
+    Transform message form [number: 0] [name: mamisan]: 2 4 L
+    Correct move!
+    Player 0 [name mamisan] choose (2,4) move to (2 3)
+    Send to player 0 [name: mamisan] infomation : (0 2 4 2 3)
+    Send to player 1 [name: Lee Algebra] infomation : (0 6 2 6 3)
+Step 12:
+    Send to player 1 [name: Lee Algebra] a signal: ACTION
+    Receive message form player 1 [name: Lee Algebra]: 2 1 R
+    Transform message form [number: 1] [name: Lee Algebra]: 6 5 L
+    Correct move!
+    Player 1 [name Lee Algebra] choose (6,5) move to (6 4)
+    Send to player 0 [name: mamisan] infomation : (1 6 5 6 4)
+    Send to player 1 [name: Lee Algebra] infomation : (1 2 1 2 2)
+Step 13:
+    Send to player 0 [name: mamisan] a signal: ACTION
+    Receive message form player 0 [name: mamisan]: 2 3 U
+    Transform message form [number: 0] [name: mamisan]: 2 3 U
+    Correct move!
+    Player 0 [name mamisan] choose (2,3) move to (3 3)
+    Send to player 0 [name: mamisan] infomation : (0 2 3 3 3)
+    Send to player 1 [name: Lee Algebra] infomation : (0 6 3 5 3)
+Step 14:
+    Send to player 1 [name: Lee Algebra] a signal: ACTION
+    Receive message form player 1 [name: Lee Algebra]: 2 2 D
+    Transform message form [number: 1] [name: Lee Algebra]: 6 4 U
+    Correct move!
+    Player 1 [name Lee Algebra] choose (6,4) move to (7 4)
+    Send to player 0 [name: mamisan] infomation : (1 6 4 7 4)
+    Send to player 1 [name: Lee Algebra] infomation : (1 2 2 1 2)
+Step 15:
+    Send to player 0 [name: mamisan] a signal: ACTION
+    Receive message form player 0 [name: mamisan]: 3 3 U
+    Transform message form [number: 0] [name: mamisan]: 3 3 U
+    Correct move!
+    Player 0 [name mamisan] choose (3,3) move to (4 3)
+    Send to player 0 [name: mamisan] infomation : (0 3 3 4 3)
+    Send to player 1 [name: Lee Algebra] infomation : (0 5 3 4 3)
+Step 16:
+    Send to player 1 [name: Lee Algebra] a signal: ACTION
+    Receive message form player 1 [name: Lee Algebra]: 1 2 R
+    Transform message form [number: 1] [name: Lee Algebra]: 7 4 L
+    Correct move!
+    Player 1 [name Lee Algebra] choose (7,4) move to (7 3)
+    Send to player 0 [name: mamisan] infomation : (1 7 4 7 3)
+    Send to player 1 [name: Lee Algebra] infomation : (1 1 2 1 3)
+Step 17:
+    Send to player 0 [name: mamisan] a signal: ACTION
+    Receive message form player 0 [name: mamisan]: 4 3 U
+    Transform message form [number: 0] [name: mamisan]: 4 3 U
+    Correct move!
+    Player 0 [name mamisan] choose (4,3) move to (5 3)
+    Send to player 0 [name: mamisan] infomation : (0 4 3 5 3)
+    Send to player 1 [name: Lee Algebra] infomation : (0 4 3 3 3)
+Step 18:
+    Send to player 1 [name: Lee Algebra] a signal: ACTION
+    Receive message form player 1 [name: Lee Algebra]: 1 5 L
+    Transform message form [number: 1] [name: Lee Algebra]: 7 1 R
+    Correct move!
+    Player 1 [name Lee Algebra] choose (7,1) move to (7 2)
+    Send to player 0 [name: mamisan] infomation : (1 7 1 7 2)
+    Send to player 1 [name: Lee Algebra] infomation : (1 1 5 1 4)
+Step 19:
+    Send to player 0 [name: mamisan] a signal: ACTION
+    Receive message form player 0 [name: mamisan]: 5 3 U
+    Transform message form [number: 0] [name: mamisan]: 5 3 U
+    Correct move!
+    Player 0 [name mamisan] choose (5,3) move to (6 3)
+    Send to player 0 [name: mamisan] infomation : (0 5 3 6 3)
+    Send to player 1 [name: Lee Algebra] infomation : (0 3 3 2 3)
+Step 20:
+    Send to player 1 [name: Lee Algebra] a signal: ACTION
+    Receive message form player 1 [name: Lee Algebra]: 2 4 L
+    Transform message form [number: 1] [name: Lee Algebra]: 6 2 R
+    Correct move!
+    Player 1 [name Lee Algebra] choose (6,2) move to (6 3)
+    Send to player 0 [name: mamisan] infomation : (1 6 2 6 3)
+    Send to player 1 [name: Lee Algebra] infomation : (1 2 4 2 3)
+Step 21:
+    Send to player 0 [name: mamisan] a signal: ACTION
+    Receive message form player 0 [name: mamisan]: 0 6 L
+    Transform message form [number: 0] [name: mamisan]: 0 6 L
+    Correct move!
+    Player 0 [name mamisan] choose (0,6) move to (0 5)
+    Send to player 0 [name: mamisan] infomation : (0 0 6 0 5)
+    Send to player 1 [name: Lee Algebra] infomation : (0 8 0 8 1)
+Step 22:
+    Send to player 1 [name: Lee Algebra] a signal: ACTION
+    Receive message form player 1 [name: Lee Algebra]: 1 1 D
+    Transform message form [number: 1] [name: Lee Algebra]: 7 5 U
+    Correct move!
+    Player 1 [name Lee Algebra] choose (7,5) move to (8 5)
+    Send to player 0 [name: mamisan] infomation : (1 7 5 8 5)
+    Send to player 1 [name: Lee Algebra] infomation : (1 1 1 0 1)
+Step 23:
+    Send to player 0 [name: mamisan] a signal: ACTION
+    Receive message form player 0 [name: mamisan]: 0 5 L
+    Transform message form [number: 0] [name: mamisan]: 0 5 L
+    Correct move!
+    Player 0 [name mamisan] choose (0,5) move to (0 4)
+    Send to player 0 [name: mamisan] infomation : (0 0 5 0 4)
+    Send to player 1 [name: Lee Algebra] infomation : (0 8 1 8 2)
+Step 24:
+    Send to player 1 [name: Lee Algebra] a signal: ACTION
+    Receive message form player 1 [name: Lee Algebra]: 1 0 U
+    Transform message form [number: 1] [name: Lee Algebra]: 7 6 D
+    Correct move!
+    Player 1 [name Lee Algebra] choose (7,6) move to (6 6)
+    Send to player 0 [name: mamisan] infomation : (1 7 6 6 6)
+    Send to player 1 [name: Lee Algebra] infomation : (1 1 0 2 0)
+Step 25:
+    Send to player 0 [name: mamisan] a signal: ACTION
+    Receive message form player 0 [name: mamisan]: 0 4 U
+    Transform message form [number: 0] [name: mamisan]: 0 4 U
+    Correct move!
+    Player 0 [name mamisan] choose (0,4) move to (1 4)
+    Send to player 0 [name: mamisan] infomation : (0 0 4 1 4)
+    Send to player 1 [name: Lee Algebra] infomation : (0 8 2 7 2)
+Step 26:
+    Send to player 1 [name: Lee Algebra] a signal: ACTION
+    Receive message form player 1 [name: Lee Algebra]: 2 0 R
+    Transform message form [number: 1] [name: Lee Algebra]: 6 6 L
+    Correct move!
+    Player 1 [name Lee Algebra] choose (6,6) move to (6 5)
+    Send to player 0 [name: mamisan] infomation : (1 6 6 6 5)
+    Send to player 1 [name: Lee Algebra] infomation : (1 2 0 2 1)
+Step 27:
+    Send to player 0 [name: mamisan] a signal: ACTION
+    Receive message form player 0 [name: mamisan]: 1 4 U
+    Transform message form [number: 0] [name: mamisan]: 1 4 U
+    Correct move!
+    Player 0 [name mamisan] choose (1,4) move to (2 4)
+    Send to player 0 [name: mamisan] infomation : (0 1 4 2 4)
+    Send to player 1 [name: Lee Algebra] infomation : (0 7 2 6 2)
+Step 28:
+    Send to player 1 [name: Lee Algebra] a signal: ACTION
+    Receive message form player 1 [name: Lee Algebra]: 2 3 R
+    Transform message form [number: 1] [name: Lee Algebra]: 6 3 L
+    Correct move!
+    Player 1 [name Lee Algebra] choose (6,3) move to (6 2)
+    Send to player 0 [name: mamisan] infomation : (1 6 3 6 2)
+    Send to player 1 [name: Lee Algebra] infomation : (1 2 3 2 4)
+Step 29:
+    Send to player 0 [name: mamisan] a signal: ACTION
+    Receive message form player 0 [name: mamisan]: 2 4 U
+    Transform message form [number: 0] [name: mamisan]: 2 4 U
+    Correct move!
+    Player 0 [name mamisan] choose (2,4) move to (6 4)
+    Send to player 0 [name: mamisan] infomation : (0 2 4 6 4)
+    Send to player 1 [name: Lee Algebra] infomation : (0 6 2 2 2)
+Step 30:
+    Send to player 1 [name: Lee Algebra] a signal: ACTION
+    Receive message form player 1 [name: Lee Algebra]: 2 1 U
+    Transform message form [number: 1] [name: Lee Algebra]: 6 5 D
+    Correct move!
+    Player 1 [name Lee Algebra] choose (6,5) move to (2 5)
+    Send to player 0 [name: mamisan] infomation : (1 6 5 2 5)
+    Send to player 1 [name: Lee Algebra] infomation : (1 2 1 6 1)
+Step 31:
+    Send to player 0 [name: mamisan] a signal: ACTION
+    Receive message form player 0 [name: mamisan]: 6 4 U
+    Transform message form [number: 0] [name: mamisan]: 6 4 U
+    Correct move!
+    Player 0 [name mamisan] choose (6,4) move to (7 4)
+    Send to player 0 [name: mamisan] infomation : (0 6 4 7 4)
+    Send to player 1 [name: Lee Algebra] infomation : (0 2 2 1 2)
+Step 32:
+    Send to player 1 [name: Lee Algebra] a signal: ACTION
+    Receive message form player 1 [name: Lee Algebra]: 6 1 U
+    Transform message form [number: 1] [name: Lee Algebra]: 2 5 D
+    Correct move!
+    Player 1 [name Lee Algebra] choose (2,5) move to (1 5)
+    Send to player 0 [name: mamisan] infomation : (1 2 5 1 5)
+    Send to player 1 [name: Lee Algebra] infomation : (1 6 1 7 1)
+Step 33:
+    Send to player 0 [name: mamisan] a signal: ACTION
+    Receive message form player 0 [name: mamisan]: 7 4 U
+    Transform message form [number: 0] [name: mamisan]: 7 4 U
+    Correct move!
+    Player 0 [name mamisan] choose (7,4) move to (8 4)
+    Send to player 0 [name: mamisan] infomation : (0 7 4 8 4)
+    Send to player 1 [name: Lee Algebra] infomation : (0 1 2 0 2)
+Step 34:
+    Send to player 1 [name: Lee Algebra] a signal: ACTION
+    Receive message form player 1 [name: Lee Algebra]: 0 1 R
+    Transform message form [number: 1] [name: Lee Algebra]: 8 5 L
+    Correct move!
+    Player 1 [name Lee Algebra] choose (8,5) move to (8 4)
+    Send to player 0 [name: mamisan] infomation : (1 8 5 8 4)
+    Send to player 1 [name: Lee Algebra] infomation : (1 0 1 0 2)
+Step 35:
+    Send to player 0 [name: mamisan] a signal: ACTION
+    Receive message form player 0 [name: mamisan]: 2 0 R
+    Transform message form [number: 0] [name: mamisan]: 2 0 R
+    Correct move!
+    Player 0 [name mamisan] choose (2,0) move to (2 1)
+    Send to player 0 [name: mamisan] infomation : (0 2 0 2 1)
+    Send to player 1 [name: Lee Algebra] infomation : (0 6 6 6 5)
+Step 36:
+    Send to player 1 [name: Lee Algebra] a signal: ACTION
+    Receive message form player 1 [name: Lee Algebra]: 7 1 R
+    Transform message form [number: 1] [name: Lee Algebra]: 1 5 L
+    Correct move!
+    Player 1 [name Lee Algebra] choose (1,5) move to (1 4)
+    Send to player 0 [name: mamisan] infomation : (1 1 5 1 4)
+    Send to player 1 [name: Lee Algebra] infomation : (1 7 1 7 2)
+Step 37:
+    Send to player 0 [name: mamisan] a signal: ACTION
+    Receive message form player 0 [name: mamisan]: 2 1 R
+    Transform message form [number: 0] [name: mamisan]: 2 1 R
+    Correct move!
+    Player 0 [name mamisan] choose (2,1) move to (2 2)
+    Send to player 0 [name: mamisan] infomation : (0 2 1 2 2)
+    Send to player 1 [name: Lee Algebra] infomation : (0 6 5 6 4)
+Step 38:
+    Send to player 1 [name: Lee Algebra] a signal: ACTION
+    Receive message form player 1 [name: Lee Algebra]: 7 2 R
+    Transform message form [number: 1] [name: Lee Algebra]: 1 4 L
+    Correct move!
+    Player 1 [name Lee Algebra] choose (1,4) move to (1 3)
+    Send to player 0 [name: mamisan] infomation : (1 1 4 1 3)
+    Send to player 1 [name: Lee Algebra] infomation : (1 7 2 7 3)
+Step 39:
+    Send to player 0 [name: mamisan] a signal: ACTION
+    Receive message form player 0 [name: mamisan]: 2 2 R
+    Transform message form [number: 0] [name: mamisan]: 2 2 R
+    Correct move!
+    Player 0 [name mamisan] choose (2,2) move to (2 3)
+    Send to player 0 [name: mamisan] infomation : (0 2 2 2 3)
+    Send to player 1 [name: Lee Algebra] infomation : (0 6 4 6 3)
+Step 40:
+    Send to player 1 [name: Lee Algebra] a signal: ACTION
+    Receive message form player 1 [name: Lee Algebra]: 7 3 U
+    Transform message form [number: 1] [name: Lee Algebra]: 1 3 D
+    Correct move!
+    Player 1 [name Lee Algebra] choose (1,3) move to (0 3)
+    Send to player 0 [name: mamisan] infomation : (1 1 3 0 3)
+    Send to player 1 [name: Lee Algebra] infomation : (1 7 3 8 3)
+    The Player 1 (name Lee Algebra) win the game
+Closing connections:
+    Player 0 [name: mamisan] connection closed succueefully
+    Player 1 [name: Lee Algebra] connection closed succueefully
+Total Steps: 40
+End!

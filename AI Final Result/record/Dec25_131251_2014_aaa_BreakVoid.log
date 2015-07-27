@@ -1,0 +1,3860 @@
+Initialization:
+    Waiting to connect ...
+    AI0: aaa from 127.0.0.1 connected
+    AI1: BreakVoid from 127.0.0.1 connected
+    aaa is the first player
+    BreakVoid is the second player
+Step 1:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 4 D
+    Transform message form [number: 0] [name: aaa]: 2 4 D
+    Correct move!
+    Player 0 [name aaa] choose (2,4) move to (1 4)
+    Send to player 0 [name: aaa] infomation : (0 2 4 1 4)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 2 7 2)
+Step 2:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 0 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 6 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,6) move to (6 5)
+    Send to player 0 [name: aaa] infomation : (1 6 6 6 5)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 0 2 1)
+Step 3:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 5 D
+    Transform message form [number: 0] [name: aaa]: 1 5 D
+    Correct move!
+    Player 0 [name aaa] choose (1,5) move to (0 5)
+    Send to player 0 [name: aaa] infomation : (0 1 5 0 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 1 8 1)
+Step 4:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 2 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 4 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,4) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 6 4 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 2 2 3)
+Step 5:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 2 D
+    Transform message form [number: 0] [name: aaa]: 2 2 D
+    Correct move!
+    Player 0 [name aaa] choose (2,2) move to (1 2)
+    Send to player 0 [name: aaa] infomation : (0 2 2 1 2)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 4 7 4)
+Step 6:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 U
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (5 3)
+    Send to player 0 [name: aaa] infomation : (1 6 3 5 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 3 3)
+Step 7:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 0 R
+    Transform message form [number: 0] [name: aaa]: 2 0 R
+    Correct move!
+    Player 0 [name aaa] choose (2,0) move to (2 1)
+    Send to player 0 [name: aaa] infomation : (0 2 0 2 1)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 6 6 5)
+Step 8:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 1 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 5 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,5) move to (6 4)
+    Send to player 0 [name: aaa] infomation : (1 6 5 6 4)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 1 2 2)
+Step 9:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 1 R
+    Transform message form [number: 0] [name: aaa]: 2 1 R
+    Correct move!
+    Player 0 [name aaa] choose (2,1) move to (2 2)
+    Send to player 0 [name: aaa] infomation : (0 2 1 2 2)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 5 6 4)
+Step 10:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 2 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 4 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,4) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 6 4 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 2 2 3)
+Step 11:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 1 D
+    Transform message form [number: 0] [name: aaa]: 1 1 D
+    Correct move!
+    Player 0 [name aaa] choose (1,1) move to (0 1)
+    Send to player 0 [name: aaa] infomation : (0 1 1 0 1)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 5 8 5)
+Step 12:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 D
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (7 3)
+    Send to player 0 [name: aaa] infomation : (1 6 3 7 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 1 3)
+Step 13:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 0 0 U
+    Transform message form [number: 0] [name: aaa]: 0 0 U
+    Correct move!
+    Player 0 [name aaa] choose (0,0) move to (1 0)
+    Send to player 0 [name: aaa] infomation : (0 0 0 1 0)
+    Send to player 1 [name: BreakVoid] infomation : (0 8 6 7 6)
+Step 14:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 6 U
+    Transform message form [number: 1] [name: BreakVoid]: 6 0 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,0) move to (5 0)
+    Send to player 0 [name: aaa] infomation : (1 6 0 5 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 6 3 6)
+Step 15:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 0 U
+    Transform message form [number: 0] [name: aaa]: 1 0 U
+    Correct move!
+    Player 0 [name aaa] choose (1,0) move to (2 0)
+    Send to player 0 [name: aaa] infomation : (0 1 0 2 0)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 6 6 6)
+Step 16:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 6 L
+    Transform message form [number: 1] [name: BreakVoid]: 5 0 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,0) move to (5 1)
+    Send to player 0 [name: aaa] infomation : (1 5 0 5 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 6 3 5)
+Step 17:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 0 U
+    Transform message form [number: 0] [name: aaa]: 2 0 U
+    Correct move!
+    Player 0 [name aaa] choose (2,0) move to (3 0)
+    Send to player 0 [name: aaa] infomation : (0 2 0 3 0)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 6 5 6)
+Step 18:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 1 R
+    Transform message form [number: 1] [name: BreakVoid]: 7 5 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,5) move to (7 4)
+    Send to player 0 [name: aaa] infomation : (1 7 5 7 4)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 1 1 2)
+Step 19:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 0 U
+    Transform message form [number: 0] [name: aaa]: 3 0 U
+    Correct move!
+    Player 0 [name aaa] choose (3,0) move to (4 0)
+    Send to player 0 [name: aaa] infomation : (0 3 0 4 0)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 6 4 6)
+Step 20:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 5 L
+    Transform message form [number: 1] [name: BreakVoid]: 7 1 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,1) move to (7 2)
+    Send to player 0 [name: aaa] infomation : (1 7 1 7 2)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 5 1 4)
+Step 21:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 0 R
+    Transform message form [number: 0] [name: aaa]: 4 0 R
+    Correct move!
+    Player 0 [name aaa] choose (4,0) move to (4 3)
+    Send to player 0 [name: aaa] infomation : (0 4 0 4 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 6 4 3)
+Step 22:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 3 D
+    Transform message form [number: 1] [name: BreakVoid]: 5 3 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,3) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 5 3 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 3 2 3)
+Step 23:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 3 U
+    Transform message form [number: 0] [name: aaa]: 4 3 U
+    Correct move!
+    Player 0 [name aaa] choose (4,3) move to (5 3)
+    Send to player 0 [name: aaa] infomation : (0 4 3 5 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 3 3 3)
+Step 24:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 6 U
+    Transform message form [number: 1] [name: BreakVoid]: 8 0 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,0) move to (7 0)
+    Send to player 0 [name: aaa] infomation : (1 8 0 7 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 6 1 6)
+Step 25:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 6 U
+    Transform message form [number: 0] [name: aaa]: 2 6 U
+    Correct move!
+    Player 0 [name aaa] choose (2,6) move to (3 6)
+    Send to player 0 [name: aaa] infomation : (0 2 6 3 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 0 5 0)
+Step 26:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 6 D
+    Transform message form [number: 1] [name: BreakVoid]: 7 0 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,0) move to (8 0)
+    Send to player 0 [name: aaa] infomation : (1 7 0 8 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 6 0 6)
+Step 27:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 6 L
+    Transform message form [number: 0] [name: aaa]: 3 6 L
+    Correct move!
+    Player 0 [name aaa] choose (3,6) move to (3 5)
+    Send to player 0 [name: aaa] infomation : (0 3 6 3 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 0 5 1)
+Step 28:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 5 D
+    Transform message form [number: 1] [name: BreakVoid]: 5 1 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,1) move to (6 1)
+    Send to player 0 [name: aaa] infomation : (1 5 1 6 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 5 2 5)
+Step 29:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 0 6 U
+    Transform message form [number: 0] [name: aaa]: 0 6 U
+    Correct move!
+    Player 0 [name aaa] choose (0,6) move to (1 6)
+    Send to player 0 [name: aaa] infomation : (0 0 6 1 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 8 0 7 0)
+Step 30:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 0 R
+    Transform message form [number: 1] [name: BreakVoid]: 8 6 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,6) move to (8 5)
+    Send to player 0 [name: aaa] infomation : (1 8 6 8 5)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 0 0 1)
+Step 31:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 6 U
+    Transform message form [number: 0] [name: aaa]: 1 6 U
+    Correct move!
+    Player 0 [name aaa] choose (1,6) move to (2 6)
+    Send to player 0 [name: aaa] infomation : (0 1 6 2 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 0 6 0)
+Step 32:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 5 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 1 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,1) move to (6 0)
+    Send to player 0 [name: aaa] infomation : (1 6 1 6 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 5 2 6)
+Step 33:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 6 U
+    Transform message form [number: 0] [name: aaa]: 2 6 U
+    Correct move!
+    Player 0 [name aaa] choose (2,6) move to (3 6)
+    Send to player 0 [name: aaa] infomation : (0 2 6 3 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 0 5 0)
+Step 34:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 4 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 2 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,2) move to (6 1)
+    Send to player 0 [name: aaa] infomation : (1 6 2 6 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 4 2 5)
+Step 35:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 5 3 L
+    Transform message form [number: 0] [name: aaa]: 5 3 L
+    Correct move!
+    Player 0 [name aaa] choose (5,3) move to (5 0)
+    Send to player 0 [name: aaa] infomation : (0 5 3 5 0)
+    Send to player 1 [name: BreakVoid] infomation : (0 3 3 3 6)
+Step 36:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 5 D
+    Transform message form [number: 1] [name: BreakVoid]: 6 1 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,1) move to (7 1)
+    Send to player 0 [name: aaa] infomation : (1 6 1 7 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 5 1 5)
+Step 37:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 5 0 U
+    Transform message form [number: 0] [name: aaa]: 5 0 U
+    Correct move!
+    Player 0 [name aaa] choose (5,0) move to (6 0)
+    Send to player 0 [name: aaa] infomation : (0 5 0 6 0)
+    Send to player 1 [name: BreakVoid] infomation : (0 3 6 2 6)
+Step 38:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 1 L
+    Transform message form [number: 1] [name: BreakVoid]: 8 5 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,5) move to (8 6)
+    Send to player 0 [name: aaa] infomation : (1 8 5 8 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 1 0 0)
+Step 39:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 6 0 R
+    Transform message form [number: 0] [name: aaa]: 6 0 R
+    Correct move!
+    Player 0 [name aaa] choose (6,0) move to (6 1)
+    Send to player 0 [name: aaa] infomation : (0 6 0 6 1)
+    Send to player 1 [name: BreakVoid] infomation : (0 2 6 2 5)
+Step 40:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 6 L
+    Transform message form [number: 1] [name: BreakVoid]: 8 0 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,0) move to (8 1)
+    Send to player 0 [name: aaa] infomation : (1 8 0 8 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 6 0 5)
+Step 41:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 6 U
+    Transform message form [number: 0] [name: aaa]: 3 6 U
+    Correct move!
+    Player 0 [name aaa] choose (3,6) move to (4 6)
+    Send to player 0 [name: aaa] infomation : (0 3 6 4 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 0 4 0)
+Step 42:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 0 U
+    Transform message form [number: 1] [name: BreakVoid]: 8 6 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,6) move to (7 6)
+    Send to player 0 [name: aaa] infomation : (1 8 6 7 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 0 1 0)
+Step 43:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 6 U
+    Transform message form [number: 0] [name: aaa]: 4 6 U
+    Correct move!
+    Player 0 [name aaa] choose (4,6) move to (5 6)
+    Send to player 0 [name: aaa] infomation : (0 4 6 5 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 0 3 0)
+Step 44:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 5 R
+    Transform message form [number: 1] [name: BreakVoid]: 7 1 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,1) move to (7 0)
+    Send to player 0 [name: aaa] infomation : (1 7 1 7 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 5 1 6)
+Step 45:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 5 6 U
+    Transform message form [number: 0] [name: aaa]: 5 6 U
+    Correct move!
+    Player 0 [name aaa] choose (5,6) move to (6 6)
+    Send to player 0 [name: aaa] infomation : (0 5 6 6 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 3 0 2 0)
+Step 46:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 0 D
+    Transform message form [number: 1] [name: BreakVoid]: 7 6 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,6) move to (8 6)
+    Send to player 0 [name: aaa] infomation : (1 7 6 8 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 0 0 0)
+Step 47:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 6 6 U
+    Transform message form [number: 0] [name: aaa]: 6 6 U
+    Correct move!
+    Player 0 [name aaa] choose (6,6) move to (7 6)
+    Send to player 0 [name: aaa] infomation : (0 6 6 7 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 2 0 1 0)
+Step 48:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 0 R
+    Transform message form [number: 1] [name: BreakVoid]: 8 6 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,6) move to (8 5)
+    Send to player 0 [name: aaa] infomation : (1 8 6 8 5)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 0 0 1)
+Step 49:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 7 6 L
+    Transform message form [number: 0] [name: aaa]: 7 6 L
+    Correct move!
+    Player 0 [name aaa] choose (7,6) move to (7 5)
+    Send to player 0 [name: aaa] infomation : (0 7 6 7 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 1 0 1 1)
+Step 50:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 1 L
+    Transform message form [number: 1] [name: BreakVoid]: 8 5 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,5) move to (8 6)
+    Send to player 0 [name: aaa] infomation : (1 8 5 8 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 1 0 0)
+Step 51:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 6 1 L
+    Transform message form [number: 0] [name: aaa]: 6 1 L
+    Correct move!
+    Player 0 [name aaa] choose (6,1) move to (6 0)
+    Send to player 0 [name: aaa] infomation : (0 6 1 6 0)
+    Send to player 1 [name: BreakVoid] infomation : (0 2 5 2 6)
+Step 52:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 5 U
+    Transform message form [number: 1] [name: BreakVoid]: 8 1 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,1) move to (7 1)
+    Send to player 0 [name: aaa] infomation : (1 8 1 7 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 5 1 5)
+Step 53:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 7 5 U
+    Transform message form [number: 0] [name: aaa]: 7 5 U
+    Correct move!
+    Player 0 [name aaa] choose (7,5) move to (8 5)
+    Send to player 0 [name: aaa] infomation : (0 7 5 8 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 1 1 0 1)
+Step 54:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 0 U
+    Transform message form [number: 1] [name: BreakVoid]: 8 6 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,6) move to (7 6)
+    Send to player 0 [name: aaa] infomation : (1 8 6 7 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 0 1 0)
+Step 55:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 8 5 D
+    Transform message form [number: 0] [name: aaa]: 8 5 D
+    Correct move!
+    Player 0 [name aaa] choose (8,5) move to (7 5)
+    Send to player 0 [name: aaa] infomation : (0 8 5 7 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 0 1 1 1)
+Step 56:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 0 D
+    Transform message form [number: 1] [name: BreakVoid]: 7 6 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,6) move to (8 6)
+    Send to player 0 [name: aaa] infomation : (1 7 6 8 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 0 0 0)
+Step 57:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 7 5 U
+    Transform message form [number: 0] [name: aaa]: 7 5 U
+    Correct move!
+    Player 0 [name aaa] choose (7,5) move to (8 5)
+    Send to player 0 [name: aaa] infomation : (0 7 5 8 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 1 1 0 1)
+Step 58:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 0 U
+    Transform message form [number: 1] [name: BreakVoid]: 8 6 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,6) move to (7 6)
+    Send to player 0 [name: aaa] infomation : (1 8 6 7 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 0 1 0)
+Step 59:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 8 5 D
+    Transform message form [number: 0] [name: aaa]: 8 5 D
+    Correct move!
+    Player 0 [name aaa] choose (8,5) move to (7 5)
+    Send to player 0 [name: aaa] infomation : (0 8 5 7 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 0 1 1 1)
+Step 60:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 0 D
+    Transform message form [number: 1] [name: BreakVoid]: 7 6 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,6) move to (8 6)
+    Send to player 0 [name: aaa] infomation : (1 7 6 8 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 0 0 0)
+Step 61:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 7 5 U
+    Transform message form [number: 0] [name: aaa]: 7 5 U
+    Correct move!
+    Player 0 [name aaa] choose (7,5) move to (8 5)
+    Send to player 0 [name: aaa] infomation : (0 7 5 8 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 1 1 0 1)
+Step 62:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 0 U
+    Transform message form [number: 1] [name: BreakVoid]: 8 6 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,6) move to (7 6)
+    Send to player 0 [name: aaa] infomation : (1 8 6 7 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 0 1 0)
+Step 63:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 8 5 D
+    Transform message form [number: 0] [name: aaa]: 8 5 D
+    Correct move!
+    Player 0 [name aaa] choose (8,5) move to (7 5)
+    Send to player 0 [name: aaa] infomation : (0 8 5 7 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 0 1 1 1)
+Step 64:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 0 U
+    Transform message form [number: 1] [name: BreakVoid]: 7 6 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,6) move to (6 6)
+    Send to player 0 [name: aaa] infomation : (1 7 6 6 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 0 2 0)
+Step 65:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 7 5 D
+    Transform message form [number: 0] [name: aaa]: 7 5 D
+    Correct move!
+    Player 0 [name aaa] choose (7,5) move to (6 5)
+    Send to player 0 [name: aaa] infomation : (0 7 5 6 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 1 1 2 1)
+Step 66:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 0 U
+    Transform message form [number: 1] [name: BreakVoid]: 6 6 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,6) move to (5 6)
+    Send to player 0 [name: aaa] infomation : (1 6 6 5 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 0 3 0)
+Step 67:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 2 R
+    Transform message form [number: 0] [name: aaa]: 2 2 R
+    Correct move!
+    Player 0 [name aaa] choose (2,2) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 2 2 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 4 6 3)
+Step 68:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 U
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (5 3)
+    Send to player 0 [name: aaa] infomation : (1 6 3 5 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 3 3)
+Step 69:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 70:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 6 D
+    Transform message form [number: 1] [name: BreakVoid]: 7 0 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,0) move to (8 0)
+    Send to player 0 [name: aaa] infomation : (1 7 0 8 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 6 0 6)
+Step 71:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 6 0 U
+    Transform message form [number: 0] [name: aaa]: 6 0 U
+    Correct move!
+    Player 0 [name aaa] choose (6,0) move to (7 0)
+    Send to player 0 [name: aaa] infomation : (0 6 0 7 0)
+    Send to player 1 [name: BreakVoid] infomation : (0 2 6 1 6)
+Step 72:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 5 R
+    Transform message form [number: 1] [name: BreakVoid]: 7 1 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,1) move to (7 0)
+    Send to player 0 [name: aaa] infomation : (1 7 1 7 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 5 1 6)
+Step 73:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 6 5 R
+    Transform message form [number: 0] [name: aaa]: 6 5 R
+    Correct move!
+    Player 0 [name aaa] choose (6,5) move to (6 6)
+    Send to player 0 [name: aaa] infomation : (0 6 5 6 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 2 1 2 0)
+Step 74:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 0 U
+    Transform message form [number: 1] [name: BreakVoid]: 5 6 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,6) move to (4 6)
+    Send to player 0 [name: aaa] infomation : (1 5 6 4 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 0 4 0)
+Step 75:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 6 6 D
+    Transform message form [number: 0] [name: aaa]: 6 6 D
+    Correct move!
+    Player 0 [name aaa] choose (6,6) move to (5 6)
+    Send to player 0 [name: aaa] infomation : (0 6 6 5 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 2 0 3 0)
+Step 76:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 4 0 U
+    Transform message form [number: 1] [name: BreakVoid]: 4 6 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (4,6) move to (3 6)
+    Send to player 0 [name: aaa] infomation : (1 4 6 3 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 4 0 5 0)
+Step 77:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 5 6 D
+    Transform message form [number: 0] [name: aaa]: 5 6 D
+    Correct move!
+    Player 0 [name aaa] choose (5,6) move to (4 6)
+    Send to player 0 [name: aaa] infomation : (0 5 6 4 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 3 0 4 0)
+Step 78:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 5 0 U
+    Transform message form [number: 1] [name: BreakVoid]: 3 6 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (3,6) move to (2 6)
+    Send to player 0 [name: aaa] infomation : (1 3 6 2 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 5 0 6 0)
+Step 79:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 6 D
+    Transform message form [number: 0] [name: aaa]: 4 6 D
+    Correct move!
+    Player 0 [name aaa] choose (4,6) move to (3 6)
+    Send to player 0 [name: aaa] infomation : (0 4 6 3 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 0 5 0)
+Step 80:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 6 0 U
+    Transform message form [number: 1] [name: BreakVoid]: 2 6 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (2,6) move to (1 6)
+    Send to player 0 [name: aaa] infomation : (1 2 6 1 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 6 0 7 0)
+Step 81:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 6 U
+    Transform message form [number: 0] [name: aaa]: 3 6 U
+    Correct move!
+    Player 0 [name aaa] choose (3,6) move to (4 6)
+    Send to player 0 [name: aaa] infomation : (0 3 6 4 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 0 4 0)
+Step 82:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 6 L
+    Transform message form [number: 1] [name: BreakVoid]: 8 0 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,0) move to (8 1)
+    Send to player 0 [name: aaa] infomation : (1 8 0 8 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 6 0 5)
+Step 83:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 6 U
+    Transform message form [number: 0] [name: aaa]: 4 6 U
+    Correct move!
+    Player 0 [name aaa] choose (4,6) move to (5 6)
+    Send to player 0 [name: aaa] infomation : (0 4 6 5 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 0 3 0)
+Step 84:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 3 D
+    Transform message form [number: 1] [name: BreakVoid]: 5 3 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,3) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 5 3 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 3 2 3)
+Step 85:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 5 6 U
+    Transform message form [number: 0] [name: aaa]: 5 6 U
+    Correct move!
+    Player 0 [name aaa] choose (5,6) move to (6 6)
+    Send to player 0 [name: aaa] infomation : (0 5 6 6 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 3 0 2 0)
+Step 86:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 5 L
+    Transform message form [number: 1] [name: BreakVoid]: 8 1 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,1) move to (8 2)
+    Send to player 0 [name: aaa] infomation : (1 8 1 8 2)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 5 0 4)
+Step 87:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 6 6 U
+    Transform message form [number: 0] [name: aaa]: 6 6 U
+    Correct move!
+    Player 0 [name aaa] choose (6,6) move to (7 6)
+    Send to player 0 [name: aaa] infomation : (0 6 6 7 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 2 0 1 0)
+Step 88:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 7 0 R
+    Transform message form [number: 1] [name: BreakVoid]: 1 6 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (1,6) move to (1 5)
+    Send to player 0 [name: aaa] infomation : (1 1 6 1 5)
+    Send to player 1 [name: BreakVoid] infomation : (1 7 0 7 1)
+Step 89:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 90:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 7 1 R
+    Transform message form [number: 1] [name: BreakVoid]: 1 5 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (1,5) move to (1 4)
+    Send to player 0 [name: aaa] infomation : (1 1 5 1 4)
+    Send to player 1 [name: BreakVoid] infomation : (1 7 1 7 2)
+Step 91:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 92:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 7 2 D
+    Transform message form [number: 1] [name: BreakVoid]: 1 4 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (1,4) move to (2 4)
+    Send to player 0 [name: aaa] infomation : (1 1 4 2 4)
+    Send to player 1 [name: BreakVoid] infomation : (1 7 2 6 2)
+Step 93:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 R
+    Transform message form [number: 0] [name: aaa]: 1 3 R
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (1 4)
+    Send to player 0 [name: aaa] infomation : (0 1 3 1 4)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 7 2)
+Step 94:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 6 2 R
+    Transform message form [number: 1] [name: BreakVoid]: 2 4 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (2,4) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (1 2 4 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 6 2 6 3)
+Step 95:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 4 U
+    Transform message form [number: 0] [name: aaa]: 1 4 U
+    Correct move!
+    Player 0 [name aaa] choose (1,4) move to (2 4)
+    Send to player 0 [name: aaa] infomation : (0 1 4 2 4)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 2 6 2)
+Step 96:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 6 3 D
+    Transform message form [number: 1] [name: BreakVoid]: 2 3 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (1 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 6 3 5 3)
+Step 97:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 4 L
+    Transform message form [number: 0] [name: aaa]: 2 4 L
+    Correct move!
+    Player 0 [name aaa] choose (2,4) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 2 4 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 2 6 3)
+Step 98:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 5 3 R
+    Transform message form [number: 1] [name: BreakVoid]: 3 3 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (3,3) move to (3 0)
+    Send to player 0 [name: aaa] infomation : (1 3 3 3 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 5 3 5 6)
+Step 99:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 100:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 5 6 L
+    Transform message form [number: 1] [name: BreakVoid]: 3 0 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (3,0) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (1 3 0 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 5 6 5 3)
+Step 101:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 102:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 5 3 D
+    Transform message form [number: 1] [name: BreakVoid]: 3 3 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (3,3) move to (4 3)
+    Send to player 0 [name: aaa] infomation : (1 3 3 4 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 5 3 4 3)
+Step 103:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 5 U
+    Transform message form [number: 0] [name: aaa]: 3 5 U
+    Correct move!
+    Player 0 [name aaa] choose (3,5) move to (4 5)
+    Send to player 0 [name: aaa] infomation : (0 3 5 4 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 1 4 1)
+Step 104:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 6 L
+    Transform message form [number: 1] [name: BreakVoid]: 7 0 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,0) move to (7 1)
+    Send to player 0 [name: aaa] infomation : (1 7 0 7 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 6 1 5)
+Step 105:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 106:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 5 U
+    Transform message form [number: 1] [name: BreakVoid]: 7 1 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,1) move to (6 1)
+    Send to player 0 [name: aaa] infomation : (1 7 1 6 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 5 2 5)
+Step 107:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 108:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 5 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 1 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,1) move to (6 2)
+    Send to player 0 [name: aaa] infomation : (1 6 1 6 2)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 5 2 4)
+Step 109:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 5 U
+    Transform message form [number: 0] [name: aaa]: 4 5 U
+    Correct move!
+    Player 0 [name aaa] choose (4,5) move to (5 5)
+    Send to player 0 [name: aaa] infomation : (0 4 5 5 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 1 3 1)
+Step 110:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 4 R
+    Transform message form [number: 1] [name: BreakVoid]: 8 2 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,2) move to (8 1)
+    Send to player 0 [name: aaa] infomation : (1 8 2 8 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 4 0 5)
+Step 111:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 L
+    Transform message form [number: 0] [name: aaa]: 2 3 L
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (2 2)
+    Send to player 0 [name: aaa] infomation : (0 2 3 2 2)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 6 4)
+Step 112:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 4 3 L
+    Transform message form [number: 1] [name: BreakVoid]: 4 3 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (4,3) move to (4 6)
+    Send to player 0 [name: aaa] infomation : (1 4 3 4 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 4 3 4 0)
+Step 113:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 5 5 D
+    Transform message form [number: 0] [name: aaa]: 5 5 D
+    Correct move!
+    Player 0 [name aaa] choose (5,5) move to (4 5)
+    Send to player 0 [name: aaa] infomation : (0 5 5 4 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 3 1 4 1)
+Step 114:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 U
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (5 3)
+    Send to player 0 [name: aaa] infomation : (1 6 3 5 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 3 3)
+Step 115:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 5 U
+    Transform message form [number: 0] [name: aaa]: 4 5 U
+    Correct move!
+    Player 0 [name aaa] choose (4,5) move to (5 5)
+    Send to player 0 [name: aaa] infomation : (0 4 5 5 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 1 3 1)
+Step 116:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 4 0 U
+    Transform message form [number: 1] [name: BreakVoid]: 4 6 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (4,6) move to (3 6)
+    Send to player 0 [name: aaa] infomation : (1 4 6 3 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 4 0 5 0)
+Step 117:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 5 5 D
+    Transform message form [number: 0] [name: aaa]: 5 5 D
+    Correct move!
+    Player 0 [name aaa] choose (5,5) move to (4 5)
+    Send to player 0 [name: aaa] infomation : (0 5 5 4 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 3 1 4 1)
+Step 118:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 4 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 2 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,2) move to (6 1)
+    Send to player 0 [name: aaa] infomation : (1 6 2 6 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 4 2 5)
+Step 119:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 5 U
+    Transform message form [number: 0] [name: aaa]: 4 5 U
+    Correct move!
+    Player 0 [name aaa] choose (4,5) move to (5 5)
+    Send to player 0 [name: aaa] infomation : (0 4 5 5 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 1 3 1)
+Step 120:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 5 U
+    Transform message form [number: 1] [name: BreakVoid]: 8 1 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,1) move to (7 1)
+    Send to player 0 [name: aaa] infomation : (1 8 1 7 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 5 1 5)
+Step 121:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 2 R
+    Transform message form [number: 0] [name: aaa]: 2 2 R
+    Correct move!
+    Player 0 [name aaa] choose (2,2) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 2 2 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 4 6 3)
+Step 122:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 5 U
+    Transform message form [number: 1] [name: BreakVoid]: 6 1 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,1) move to (2 1)
+    Send to player 0 [name: aaa] infomation : (1 6 1 2 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 5 6 5)
+Step 123:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 124:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 5 U
+    Transform message form [number: 1] [name: BreakVoid]: 7 1 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,1) move to (6 1)
+    Send to player 0 [name: aaa] infomation : (1 7 1 6 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 5 2 5)
+Step 125:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 126:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 6 5 R
+    Transform message form [number: 1] [name: BreakVoid]: 2 1 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (2,1) move to (2 0)
+    Send to player 0 [name: aaa] infomation : (1 2 1 2 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 6 5 6 6)
+Step 127:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 5 5 D
+    Transform message form [number: 0] [name: aaa]: 5 5 D
+    Correct move!
+    Player 0 [name aaa] choose (5,5) move to (4 5)
+    Send to player 0 [name: aaa] infomation : (0 5 5 4 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 3 1 4 1)
+Step 128:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 5 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 1 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,1) move to (6 0)
+    Send to player 0 [name: aaa] infomation : (1 6 1 6 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 5 2 6)
+Step 129:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 130:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 6 D
+    Transform message form [number: 1] [name: BreakVoid]: 6 0 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,0) move to (7 0)
+    Send to player 0 [name: aaa] infomation : (1 6 0 7 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 6 1 6)
+Step 131:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 5 U
+    Transform message form [number: 0] [name: aaa]: 4 5 U
+    Correct move!
+    Player 0 [name aaa] choose (4,5) move to (5 5)
+    Send to player 0 [name: aaa] infomation : (0 4 5 5 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 1 3 1)
+Step 132:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 3 D
+    Transform message form [number: 1] [name: BreakVoid]: 5 3 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,3) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 5 3 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 3 2 3)
+Step 133:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 134:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (6 2)
+    Send to player 0 [name: aaa] infomation : (1 6 3 6 2)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 2 4)
+Step 135:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 136:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 6 L
+    Transform message form [number: 1] [name: BreakVoid]: 7 0 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,0) move to (7 1)
+    Send to player 0 [name: aaa] infomation : (1 7 0 7 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 6 1 5)
+Step 137:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 138:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 5 U
+    Transform message form [number: 1] [name: BreakVoid]: 7 1 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,1) move to (6 1)
+    Send to player 0 [name: aaa] infomation : (1 7 1 6 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 5 2 5)
+Step 139:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 140:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 5 D
+    Transform message form [number: 1] [name: BreakVoid]: 6 1 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,1) move to (7 1)
+    Send to player 0 [name: aaa] infomation : (1 6 1 7 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 5 1 5)
+Step 141:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 142:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 4 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 2 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,2) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 6 2 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 4 2 3)
+Step 143:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 144:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 5 U
+    Transform message form [number: 1] [name: BreakVoid]: 7 1 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,1) move to (6 1)
+    Send to player 0 [name: aaa] infomation : (1 7 1 6 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 5 2 5)
+Step 145:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 5 5 D
+    Transform message form [number: 0] [name: aaa]: 5 5 D
+    Correct move!
+    Player 0 [name aaa] choose (5,5) move to (4 5)
+    Send to player 0 [name: aaa] infomation : (0 5 5 4 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 3 1 4 1)
+Step 146:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 5 D
+    Transform message form [number: 1] [name: BreakVoid]: 6 1 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,1) move to (7 1)
+    Send to player 0 [name: aaa] infomation : (1 6 1 7 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 5 1 5)
+Step 147:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 148:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 6 6 L
+    Transform message form [number: 1] [name: BreakVoid]: 2 0 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (2,0) move to (2 1)
+    Send to player 0 [name: aaa] infomation : (1 2 0 2 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 6 6 6 5)
+Step 149:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 150:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 6 5 D
+    Transform message form [number: 1] [name: BreakVoid]: 2 1 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (2,1) move to (6 1)
+    Send to player 0 [name: aaa] infomation : (1 2 1 6 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 6 5 2 5)
+Step 151:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 7 6 U
+    Transform message form [number: 0] [name: aaa]: 7 6 U
+    Correct move!
+    Player 0 [name aaa] choose (7,6) move to (8 6)
+    Send to player 0 [name: aaa] infomation : (0 7 6 8 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 1 0 0 0)
+Step 152:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (6 2)
+    Send to player 0 [name: aaa] infomation : (1 6 3 6 2)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 2 4)
+Step 153:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 154:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 5 U
+    Transform message form [number: 1] [name: BreakVoid]: 6 1 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,1) move to (2 1)
+    Send to player 0 [name: aaa] infomation : (1 6 1 2 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 5 6 5)
+Step 155:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 156:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 5 R
+    Transform message form [number: 1] [name: BreakVoid]: 7 1 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,1) move to (7 0)
+    Send to player 0 [name: aaa] infomation : (1 7 1 7 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 5 1 6)
+Step 157:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 158:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 4 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 2 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,2) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 6 2 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 4 2 3)
+Step 159:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 160:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 U
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (5 3)
+    Send to player 0 [name: aaa] infomation : (1 6 3 5 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 3 3)
+Step 161:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 162:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 3 D
+    Transform message form [number: 1] [name: BreakVoid]: 5 3 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,3) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 5 3 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 3 2 3)
+Step 163:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 164:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 6 5 L
+    Transform message form [number: 1] [name: BreakVoid]: 2 1 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (2,1) move to (2 2)
+    Send to player 0 [name: aaa] infomation : (1 2 1 2 2)
+    Send to player 1 [name: BreakVoid] infomation : (1 6 5 6 4)
+Step 165:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 2 L
+    Transform message form [number: 0] [name: aaa]: 1 2 L
+    Correct move!
+    Player 0 [name aaa] choose (1,2) move to (1 1)
+    Send to player 0 [name: aaa] infomation : (0 1 2 1 1)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 4 7 5)
+Step 166:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 6 L
+    Transform message form [number: 1] [name: BreakVoid]: 7 0 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,0) move to (7 1)
+    Send to player 0 [name: aaa] infomation : (1 7 0 7 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 6 1 5)
+Step 167:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 8 6 L
+    Transform message form [number: 0] [name: aaa]: 8 6 L
+    Correct move!
+    Player 0 [name aaa] choose (8,6) move to (8 5)
+    Send to player 0 [name: aaa] infomation : (0 8 6 8 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 0 0 0 1)
+Step 168:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 5 U
+    Transform message form [number: 1] [name: BreakVoid]: 7 1 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,1) move to (6 1)
+    Send to player 0 [name: aaa] infomation : (1 7 1 6 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 5 2 5)
+Step 169:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 L
+    Transform message form [number: 0] [name: aaa]: 1 3 L
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (1 2)
+    Send to player 0 [name: aaa] infomation : (0 1 3 1 2)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 7 4)
+Step 170:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 6 4 L
+    Transform message form [number: 1] [name: BreakVoid]: 2 2 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (2,2) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (1 2 2 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 6 4 6 3)
+Step 171:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 2 R
+    Transform message form [number: 0] [name: aaa]: 1 2 R
+    Correct move!
+    Player 0 [name aaa] choose (1,2) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 1 2 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 4 7 3)
+Step 172:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 6 3 R
+    Transform message form [number: 1] [name: BreakVoid]: 2 3 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (2,3) move to (2 2)
+    Send to player 0 [name: aaa] infomation : (1 2 3 2 2)
+    Send to player 1 [name: BreakVoid] infomation : (1 6 3 6 4)
+Step 173:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 L
+    Transform message form [number: 0] [name: aaa]: 1 3 L
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (1 2)
+    Send to player 0 [name: aaa] infomation : (0 1 3 1 2)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 7 4)
+Step 174:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 6 4 L
+    Transform message form [number: 1] [name: BreakVoid]: 2 2 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (2,2) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (1 2 2 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 6 4 6 3)
+Step 175:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 2 R
+    Transform message form [number: 0] [name: aaa]: 1 2 R
+    Correct move!
+    Player 0 [name aaa] choose (1,2) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 1 2 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 4 7 3)
+Step 176:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 6 3 D
+    Transform message form [number: 1] [name: BreakVoid]: 2 3 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (1 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 6 3 5 3)
+Step 177:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 178:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 5 3 R
+    Transform message form [number: 1] [name: BreakVoid]: 3 3 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (3,3) move to (3 0)
+    Send to player 0 [name: aaa] infomation : (1 3 3 3 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 5 3 5 6)
+Step 179:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 180:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 5 0 U
+    Transform message form [number: 1] [name: BreakVoid]: 3 6 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (3,6) move to (2 6)
+    Send to player 0 [name: aaa] infomation : (1 3 6 2 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 5 0 6 0)
+Step 181:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 182:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 5 D
+    Transform message form [number: 1] [name: BreakVoid]: 6 1 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,1) move to (7 1)
+    Send to player 0 [name: aaa] infomation : (1 6 1 7 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 5 1 5)
+Step 183:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 1 R
+    Transform message form [number: 0] [name: aaa]: 1 1 R
+    Correct move!
+    Player 0 [name aaa] choose (1,1) move to (1 2)
+    Send to player 0 [name: aaa] infomation : (0 1 1 1 2)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 5 7 4)
+Step 184:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 6 0 R
+    Transform message form [number: 1] [name: BreakVoid]: 2 6 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (2,6) move to (2 5)
+    Send to player 0 [name: aaa] infomation : (1 2 6 2 5)
+    Send to player 1 [name: BreakVoid] infomation : (1 6 0 6 1)
+Step 185:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 0 5 L
+    Transform message form [number: 0] [name: aaa]: 0 5 L
+    Correct move!
+    Player 0 [name aaa] choose (0,5) move to (0 4)
+    Send to player 0 [name: aaa] infomation : (0 0 5 0 4)
+    Send to player 1 [name: BreakVoid] infomation : (0 8 1 8 2)
+Step 186:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 5 U
+    Transform message form [number: 1] [name: BreakVoid]: 7 1 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,1) move to (6 1)
+    Send to player 0 [name: aaa] infomation : (1 7 1 6 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 5 2 5)
+Step 187:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 188:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 6 1 L
+    Transform message form [number: 1] [name: BreakVoid]: 2 5 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (2,5) move to (2 6)
+    Send to player 0 [name: aaa] infomation : (1 2 5 2 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 6 1 6 0)
+Step 189:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 0 4 U
+    Transform message form [number: 0] [name: aaa]: 0 4 U
+    Correct move!
+    Player 0 [name aaa] choose (0,4) move to (1 4)
+    Send to player 0 [name: aaa] infomation : (0 0 4 1 4)
+    Send to player 1 [name: BreakVoid] infomation : (0 8 2 7 2)
+Step 190:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 6 0 U
+    Transform message form [number: 1] [name: BreakVoid]: 2 6 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (2,6) move to (1 6)
+    Send to player 0 [name: aaa] infomation : (1 2 6 1 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 6 0 7 0)
+Step 191:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 192:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 5 6 D
+    Transform message form [number: 1] [name: BreakVoid]: 3 0 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (3,0) move to (4 0)
+    Send to player 0 [name: aaa] infomation : (1 3 0 4 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 5 6 4 6)
+Step 193:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 5 U
+    Transform message form [number: 0] [name: aaa]: 4 5 U
+    Correct move!
+    Player 0 [name aaa] choose (4,5) move to (5 5)
+    Send to player 0 [name: aaa] infomation : (0 4 5 5 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 1 3 1)
+Step 194:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 5 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 1 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,1) move to (6 2)
+    Send to player 0 [name: aaa] infomation : (1 6 1 6 2)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 5 2 4)
+Step 195:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 U
+    Transform message form [number: 0] [name: aaa]: 2 3 U
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 5 3)
+Step 196:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 U
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (5 3)
+    Send to player 0 [name: aaa] infomation : (1 6 3 5 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 3 3)
+Step 197:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 D
+    Transform message form [number: 0] [name: aaa]: 3 3 D
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 6 3)
+Step 198:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 7 0 U
+    Transform message form [number: 1] [name: BreakVoid]: 1 6 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (1,6) move to (0 6)
+    Send to player 0 [name: aaa] infomation : (1 1 6 0 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 7 0 8 0)
+Step 199:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 U
+    Transform message form [number: 0] [name: aaa]: 2 3 U
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 5 3)
+Step 200:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 8 0 D
+    Transform message form [number: 1] [name: BreakVoid]: 0 6 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (0,6) move to (1 6)
+    Send to player 0 [name: aaa] infomation : (1 0 6 1 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 8 0 7 0)
+Step 201:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 D
+    Transform message form [number: 0] [name: aaa]: 3 3 D
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 6 3)
+Step 202:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 4 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 2 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,2) move to (6 1)
+    Send to player 0 [name: aaa] infomation : (1 6 2 6 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 4 2 5)
+Step 203:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 U
+    Transform message form [number: 0] [name: aaa]: 2 3 U
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 5 3)
+Step 204:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 7 0 R
+    Transform message form [number: 1] [name: BreakVoid]: 1 6 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (1,6) move to (1 5)
+    Send to player 0 [name: aaa] infomation : (1 1 6 1 5)
+    Send to player 1 [name: BreakVoid] infomation : (1 7 0 7 1)
+Step 205:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 4 U
+    Transform message form [number: 0] [name: aaa]: 1 4 U
+    Correct move!
+    Player 0 [name aaa] choose (1,4) move to (2 4)
+    Send to player 0 [name: aaa] infomation : (0 1 4 2 4)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 2 6 2)
+Step 206:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 7 1 L
+    Transform message form [number: 1] [name: BreakVoid]: 1 5 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (1,5) move to (1 6)
+    Send to player 0 [name: aaa] infomation : (1 1 5 1 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 7 1 7 0)
+Step 207:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 D
+    Transform message form [number: 0] [name: aaa]: 3 3 D
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 6 3)
+Step 208:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 3 U
+    Transform message form [number: 1] [name: BreakVoid]: 5 3 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,3) move to (4 3)
+    Send to player 0 [name: aaa] infomation : (1 5 3 4 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 3 4 3)
+Step 209:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 210:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 7 0 D
+    Transform message form [number: 1] [name: BreakVoid]: 1 6 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (1,6) move to (2 6)
+    Send to player 0 [name: aaa] infomation : (1 1 6 2 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 7 0 6 0)
+Step 211:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 4 D
+    Transform message form [number: 0] [name: aaa]: 2 4 D
+    Correct move!
+    Player 0 [name aaa] choose (2,4) move to (1 4)
+    Send to player 0 [name: aaa] infomation : (0 2 4 1 4)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 2 7 2)
+Step 212:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 5 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 1 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,1) move to (6 0)
+    Send to player 0 [name: aaa] infomation : (1 6 1 6 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 5 2 6)
+Step 213:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 214:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 6 U
+    Transform message form [number: 1] [name: BreakVoid]: 6 0 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,0) move to (5 0)
+    Send to player 0 [name: aaa] infomation : (1 6 0 5 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 6 3 6)
+Step 215:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 U
+    Transform message form [number: 0] [name: aaa]: 2 3 U
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 5 3)
+Step 216:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 4 3 D
+    Transform message form [number: 1] [name: BreakVoid]: 4 3 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (4,3) move to (5 3)
+    Send to player 0 [name: aaa] infomation : (1 4 3 5 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 4 3 3 3)
+Step 217:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 D
+    Transform message form [number: 0] [name: aaa]: 3 3 D
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 6 3)
+Step 218:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 3 D
+    Transform message form [number: 1] [name: BreakVoid]: 5 3 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,3) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 5 3 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 3 2 3)
+Step 219:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 220:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (6 4)
+    Send to player 0 [name: aaa] infomation : (1 6 3 6 4)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 2 2)
+Step 221:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 222:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 2 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 4 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,4) move to (6 5)
+    Send to player 0 [name: aaa] infomation : (1 6 4 6 5)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 2 2 1)
+Step 223:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 U
+    Transform message form [number: 0] [name: aaa]: 2 3 U
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 5 3)
+Step 224:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 6 0 D
+    Transform message form [number: 1] [name: BreakVoid]: 2 6 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (2,6) move to (3 6)
+    Send to player 0 [name: aaa] infomation : (1 2 6 3 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 6 0 5 0)
+Step 225:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 D
+    Transform message form [number: 0] [name: aaa]: 3 3 D
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 6 3)
+Step 226:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 1 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 5 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,5) move to (6 6)
+    Send to player 0 [name: aaa] infomation : (1 6 5 6 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 1 2 0)
+Step 227:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 228:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 0 U
+    Transform message form [number: 1] [name: BreakVoid]: 6 6 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,6) move to (5 6)
+    Send to player 0 [name: aaa] infomation : (1 6 6 5 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 0 3 0)
+Step 229:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 230:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 0 U
+    Transform message form [number: 1] [name: BreakVoid]: 5 6 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,6) move to (4 6)
+    Send to player 0 [name: aaa] infomation : (1 5 6 4 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 0 4 0)
+Step 231:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 U
+    Transform message form [number: 0] [name: aaa]: 2 3 U
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 5 3)
+Step 232:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 4 6 U
+    Transform message form [number: 1] [name: BreakVoid]: 4 0 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (4,0) move to (3 0)
+    Send to player 0 [name: aaa] infomation : (1 4 0 3 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 4 6 5 6)
+Step 233:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 D
+    Transform message form [number: 0] [name: aaa]: 3 3 D
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 6 3)
+Step 234:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 6 D
+    Transform message form [number: 1] [name: BreakVoid]: 5 0 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,0) move to (6 0)
+    Send to player 0 [name: aaa] infomation : (1 5 0 6 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 6 2 6)
+Step 235:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 236:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 5 6 L
+    Transform message form [number: 1] [name: BreakVoid]: 3 0 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (3,0) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (1 3 0 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 5 6 5 3)
+Step 237:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 238:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 5 3 D
+    Transform message form [number: 1] [name: BreakVoid]: 3 3 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (3,3) move to (4 3)
+    Send to player 0 [name: aaa] infomation : (1 3 3 4 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 5 3 4 3)
+Step 239:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 U
+    Transform message form [number: 0] [name: aaa]: 2 3 U
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 5 3)
+Step 240:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 4 3 D
+    Transform message form [number: 1] [name: BreakVoid]: 4 3 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (4,3) move to (5 3)
+    Send to player 0 [name: aaa] infomation : (1 4 3 5 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 4 3 3 3)
+Step 241:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 D
+    Transform message form [number: 0] [name: aaa]: 3 3 D
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 6 3)
+Step 242:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 3 R
+    Transform message form [number: 1] [name: BreakVoid]: 5 3 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,3) move to (5 0)
+    Send to player 0 [name: aaa] infomation : (1 5 3 5 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 3 3 6)
+Step 243:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 244:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 6 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 0 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,0) move to (6 1)
+    Send to player 0 [name: aaa] infomation : (1 6 0 6 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 6 2 5)
+Step 245:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 246:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 6 L
+    Transform message form [number: 1] [name: BreakVoid]: 5 0 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,0) move to (5 3)
+    Send to player 0 [name: aaa] infomation : (1 5 0 5 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 6 3 3)
+Step 247:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 248:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 5 D
+    Transform message form [number: 1] [name: BreakVoid]: 6 1 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,1) move to (7 1)
+    Send to player 0 [name: aaa] infomation : (1 6 1 7 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 5 1 5)
+Step 249:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 8 5 D
+    Transform message form [number: 0] [name: aaa]: 8 5 D
+    Correct move!
+    Player 0 [name aaa] choose (8,5) move to (7 5)
+    Send to player 0 [name: aaa] infomation : (0 8 5 7 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 0 1 1 1)
+Step 250:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 4 0 D
+    Transform message form [number: 1] [name: BreakVoid]: 4 6 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (4,6) move to (5 6)
+    Send to player 0 [name: aaa] infomation : (1 4 6 5 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 4 0 3 0)
+Step 251:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 252:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 5 U
+    Transform message form [number: 1] [name: BreakVoid]: 7 1 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,1) move to (6 1)
+    Send to player 0 [name: aaa] infomation : (1 7 1 6 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 5 2 5)
+Step 253:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 254:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 3 D
+    Transform message form [number: 1] [name: BreakVoid]: 5 3 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,3) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 5 3 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 3 2 3)
+Step 255:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 7 5 U
+    Transform message form [number: 0] [name: aaa]: 7 5 U
+    Correct move!
+    Player 0 [name aaa] choose (7,5) move to (8 5)
+    Send to player 0 [name: aaa] infomation : (0 7 5 8 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 1 1 0 1)
+Step 256:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 U
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (5 3)
+    Send to player 0 [name: aaa] infomation : (1 6 3 5 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 3 3)
+Step 257:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 8 5 D
+    Transform message form [number: 0] [name: aaa]: 8 5 D
+    Correct move!
+    Player 0 [name aaa] choose (8,5) move to (7 5)
+    Send to player 0 [name: aaa] infomation : (0 8 5 7 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 0 1 1 1)
+Step 258:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 5 0 D
+    Transform message form [number: 1] [name: BreakVoid]: 3 6 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (3,6) move to (4 6)
+    Send to player 0 [name: aaa] infomation : (1 3 6 4 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 5 0 4 0)
+Step 259:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 5 5 D
+    Transform message form [number: 0] [name: aaa]: 5 5 D
+    Correct move!
+    Player 0 [name aaa] choose (5,5) move to (4 5)
+    Send to player 0 [name: aaa] infomation : (0 5 5 4 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 3 1 4 1)
+Step 260:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 5 D
+    Transform message form [number: 1] [name: BreakVoid]: 6 1 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,1) move to (7 1)
+    Send to player 0 [name: aaa] infomation : (1 6 1 7 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 5 1 5)
+Step 261:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 262:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 3 D
+    Transform message form [number: 1] [name: BreakVoid]: 5 3 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,3) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 5 3 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 3 2 3)
+Step 263:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 7 5 U
+    Transform message form [number: 0] [name: aaa]: 7 5 U
+    Correct move!
+    Player 0 [name aaa] choose (7,5) move to (8 5)
+    Send to player 0 [name: aaa] infomation : (0 7 5 8 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 1 1 0 1)
+Step 264:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (6 4)
+    Send to player 0 [name: aaa] infomation : (1 6 3 6 4)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 2 2)
+Step 265:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 R
+    Transform message form [number: 0] [name: aaa]: 2 3 R
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (2 4)
+    Send to player 0 [name: aaa] infomation : (0 2 3 2 4)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 6 2)
+Step 266:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 5 D
+    Transform message form [number: 1] [name: BreakVoid]: 7 1 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,1) move to (8 1)
+    Send to player 0 [name: aaa] infomation : (1 7 1 8 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 5 0 5)
+Step 267:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 5 U
+    Transform message form [number: 0] [name: aaa]: 4 5 U
+    Correct move!
+    Player 0 [name aaa] choose (4,5) move to (5 5)
+    Send to player 0 [name: aaa] infomation : (0 4 5 5 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 1 3 1)
+Step 268:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 4 0 U
+    Transform message form [number: 1] [name: BreakVoid]: 4 6 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (4,6) move to (3 6)
+    Send to player 0 [name: aaa] infomation : (1 4 6 3 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 4 0 5 0)
+Step 269:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 4 L
+    Transform message form [number: 0] [name: aaa]: 2 4 L
+    Correct move!
+    Player 0 [name aaa] choose (2,4) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 2 4 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 2 6 3)
+Step 270:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 5 0 R
+    Transform message form [number: 1] [name: BreakVoid]: 3 6 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (3,6) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (1 3 6 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 5 0 5 3)
+Step 271:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 U
+    Transform message form [number: 0] [name: aaa]: 2 3 U
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 5 3)
+Step 272:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 2 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 4 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,4) move to (6 5)
+    Send to player 0 [name: aaa] infomation : (1 6 4 6 5)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 2 2 1)
+Step 273:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 D
+    Transform message form [number: 0] [name: aaa]: 3 3 D
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 6 3)
+Step 274:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 1 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 5 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,5) move to (6 4)
+    Send to player 0 [name: aaa] infomation : (1 6 5 6 4)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 1 2 2)
+Step 275:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 5 5 D
+    Transform message form [number: 0] [name: aaa]: 5 5 D
+    Correct move!
+    Player 0 [name aaa] choose (5,5) move to (4 5)
+    Send to player 0 [name: aaa] infomation : (0 5 5 4 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 3 1 4 1)
+Step 276:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 2 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 4 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,4) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 6 4 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 2 2 3)
+Step 277:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 U
+    Transform message form [number: 0] [name: aaa]: 2 3 U
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 5 3)
+Step 278:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (6 4)
+    Send to player 0 [name: aaa] infomation : (1 6 3 6 4)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 2 2)
+Step 279:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 D
+    Transform message form [number: 0] [name: aaa]: 3 3 D
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 6 3)
+Step 280:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 2 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 4 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,4) move to (6 5)
+    Send to player 0 [name: aaa] infomation : (1 6 4 6 5)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 2 2 1)
+Step 281:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 U
+    Transform message form [number: 0] [name: aaa]: 2 3 U
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 5 3)
+Step 282:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 0 U
+    Transform message form [number: 1] [name: BreakVoid]: 5 6 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,6) move to (4 6)
+    Send to player 0 [name: aaa] infomation : (1 5 6 4 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 0 4 0)
+Step 283:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 D
+    Transform message form [number: 0] [name: aaa]: 3 3 D
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 6 3)
+Step 284:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 1 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 5 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,5) move to (6 6)
+    Send to player 0 [name: aaa] infomation : (1 6 5 6 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 1 2 0)
+Step 285:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 U
+    Transform message form [number: 0] [name: aaa]: 2 3 U
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 5 3)
+Step 286:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 0 U
+    Transform message form [number: 1] [name: BreakVoid]: 6 6 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,6) move to (5 6)
+    Send to player 0 [name: aaa] infomation : (1 6 6 5 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 0 3 0)
+Step 287:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 D
+    Transform message form [number: 0] [name: aaa]: 3 3 D
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 6 3)
+Step 288:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 0 R
+    Transform message form [number: 1] [name: BreakVoid]: 5 6 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,6) move to (5 3)
+    Send to player 0 [name: aaa] infomation : (1 5 6 5 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 0 3 3)
+Step 289:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 U
+    Transform message form [number: 0] [name: aaa]: 2 3 U
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 5 3)
+Step 290:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 4 0 U
+    Transform message form [number: 1] [name: BreakVoid]: 4 6 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (4,6) move to (3 6)
+    Send to player 0 [name: aaa] infomation : (1 4 6 3 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 4 0 5 0)
+Step 291:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 5 U
+    Transform message form [number: 0] [name: aaa]: 4 5 U
+    Correct move!
+    Player 0 [name aaa] choose (4,5) move to (5 5)
+    Send to player 0 [name: aaa] infomation : (0 4 5 5 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 1 3 1)
+Step 292:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 5 R
+    Transform message form [number: 1] [name: BreakVoid]: 8 1 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,1) move to (8 0)
+    Send to player 0 [name: aaa] infomation : (1 8 1 8 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 5 0 6)
+Step 293:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 U
+    Transform message form [number: 0] [name: aaa]: 3 3 U
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (4 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 4 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 4 3)
+Step 294:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 3 R
+    Transform message form [number: 1] [name: BreakVoid]: 5 3 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,3) move to (5 0)
+    Send to player 0 [name: aaa] infomation : (1 5 3 5 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 3 3 6)
+Step 295:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 3 D
+    Transform message form [number: 0] [name: aaa]: 4 3 D
+    Correct move!
+    Player 0 [name aaa] choose (4,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 4 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 3 5 3)
+Step 296:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 6 U
+    Transform message form [number: 1] [name: BreakVoid]: 8 0 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,0) move to (7 0)
+    Send to player 0 [name: aaa] infomation : (1 8 0 7 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 6 1 6)
+Step 297:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 D
+    Transform message form [number: 0] [name: aaa]: 3 3 D
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 6 3)
+Step 298:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 5 0 D
+    Transform message form [number: 1] [name: BreakVoid]: 3 6 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (3,6) move to (4 6)
+    Send to player 0 [name: aaa] infomation : (1 3 6 4 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 5 0 4 0)
+Step 299:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 300:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 4 0 U
+    Transform message form [number: 1] [name: BreakVoid]: 4 6 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (4,6) move to (3 6)
+    Send to player 0 [name: aaa] infomation : (1 4 6 3 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 4 0 5 0)
+Step 301:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 302:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 6 L
+    Transform message form [number: 1] [name: BreakVoid]: 5 0 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,0) move to (5 3)
+    Send to player 0 [name: aaa] infomation : (1 5 0 5 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 6 3 3)
+Step 303:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 U
+    Transform message form [number: 0] [name: aaa]: 2 3 U
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 5 3)
+Step 304:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 5 0 U
+    Transform message form [number: 1] [name: BreakVoid]: 3 6 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (3,6) move to (2 6)
+    Send to player 0 [name: aaa] infomation : (1 3 6 2 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 5 0 6 0)
+Step 305:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 D
+    Transform message form [number: 0] [name: aaa]: 3 3 D
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 6 3)
+Step 306:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 6 0 R
+    Transform message form [number: 1] [name: BreakVoid]: 2 6 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (2,6) move to (2 5)
+    Send to player 0 [name: aaa] infomation : (1 2 6 2 5)
+    Send to player 1 [name: BreakVoid] infomation : (1 6 0 6 1)
+Step 307:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 4 R
+    Transform message form [number: 0] [name: aaa]: 1 4 R
+    Correct move!
+    Player 0 [name aaa] choose (1,4) move to (1 5)
+    Send to player 0 [name: aaa] infomation : (0 1 4 1 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 2 7 1)
+Step 308:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 6 1 L
+    Transform message form [number: 1] [name: BreakVoid]: 2 5 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (2,5) move to (2 6)
+    Send to player 0 [name: aaa] infomation : (1 2 5 2 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 6 1 6 0)
+Step 309:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 5 R
+    Transform message form [number: 0] [name: aaa]: 1 5 R
+    Correct move!
+    Player 0 [name aaa] choose (1,5) move to (1 6)
+    Send to player 0 [name: aaa] infomation : (0 1 5 1 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 1 7 0)
+Step 310:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 6 0 D
+    Transform message form [number: 1] [name: BreakVoid]: 2 6 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (2,6) move to (3 6)
+    Send to player 0 [name: aaa] infomation : (1 2 6 3 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 6 0 5 0)
+Step 311:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 6 U
+    Transform message form [number: 0] [name: aaa]: 1 6 U
+    Correct move!
+    Player 0 [name aaa] choose (1,6) move to (2 6)
+    Send to player 0 [name: aaa] infomation : (0 1 6 2 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 0 6 0)
+Step 312:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 5 0 D
+    Transform message form [number: 1] [name: BreakVoid]: 3 6 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (3,6) move to (4 6)
+    Send to player 0 [name: aaa] infomation : (1 3 6 4 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 5 0 4 0)
+Step 313:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 6 U
+    Transform message form [number: 0] [name: aaa]: 2 6 U
+    Correct move!
+    Player 0 [name aaa] choose (2,6) move to (3 6)
+    Send to player 0 [name: aaa] infomation : (0 2 6 3 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 0 5 0)
+Step 314:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 3 U
+    Transform message form [number: 1] [name: BreakVoid]: 5 3 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,3) move to (4 3)
+    Send to player 0 [name: aaa] infomation : (1 5 3 4 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 3 4 3)
+Step 315:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 5 5 D
+    Transform message form [number: 0] [name: aaa]: 5 5 D
+    Correct move!
+    Player 0 [name aaa] choose (5,5) move to (4 5)
+    Send to player 0 [name: aaa] infomation : (0 5 5 4 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 3 1 4 1)
+Step 316:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 4 0 D
+    Transform message form [number: 1] [name: BreakVoid]: 4 6 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (4,6) move to (5 6)
+    Send to player 0 [name: aaa] infomation : (1 4 6 5 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 4 0 3 0)
+Step 317:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 U
+    Transform message form [number: 0] [name: aaa]: 2 3 U
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 5 3)
+Step 318:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 4 3 R
+    Transform message form [number: 1] [name: BreakVoid]: 4 3 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (4,3) move to (4 0)
+    Send to player 0 [name: aaa] infomation : (1 4 3 4 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 4 3 4 6)
+Step 319:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 D
+    Transform message form [number: 0] [name: aaa]: 3 3 D
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 6 3)
+Step 320:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 6 L
+    Transform message form [number: 1] [name: BreakVoid]: 7 0 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,0) move to (7 1)
+    Send to player 0 [name: aaa] infomation : (1 7 0 7 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 6 1 5)
+Step 321:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 6 U
+    Transform message form [number: 0] [name: aaa]: 3 6 U
+    Correct move!
+    Player 0 [name aaa] choose (3,6) move to (4 6)
+    Send to player 0 [name: aaa] infomation : (0 3 6 4 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 0 4 0)
+Step 322:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 0 D
+    Transform message form [number: 1] [name: BreakVoid]: 5 6 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,6) move to (6 6)
+    Send to player 0 [name: aaa] infomation : (1 5 6 6 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 0 2 0)
+Step 323:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 6 U
+    Transform message form [number: 0] [name: aaa]: 4 6 U
+    Correct move!
+    Player 0 [name aaa] choose (4,6) move to (5 6)
+    Send to player 0 [name: aaa] infomation : (0 4 6 5 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 0 3 0)
+Step 324:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 0 D
+    Transform message form [number: 1] [name: BreakVoid]: 6 6 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,6) move to (7 6)
+    Send to player 0 [name: aaa] infomation : (1 6 6 7 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 0 1 0)
+Step 325:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 5 6 U
+    Transform message form [number: 0] [name: aaa]: 5 6 U
+    Correct move!
+    Player 0 [name aaa] choose (5,6) move to (6 6)
+    Send to player 0 [name: aaa] infomation : (0 5 6 6 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 3 0 2 0)
+Step 326:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 0 D
+    Transform message form [number: 1] [name: BreakVoid]: 7 6 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,6) move to (8 6)
+    Send to player 0 [name: aaa] infomation : (1 7 6 8 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 0 0 0)
+Step 327:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 6 6 U
+    Transform message form [number: 0] [name: aaa]: 6 6 U
+    Correct move!
+    Player 0 [name aaa] choose (6,6) move to (7 6)
+    Send to player 0 [name: aaa] infomation : (0 6 6 7 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 2 0 1 0)
+Step 328:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 5 U
+    Transform message form [number: 1] [name: BreakVoid]: 7 1 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,1) move to (6 1)
+    Send to player 0 [name: aaa] infomation : (1 7 1 6 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 5 2 5)
+Step 329:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 330:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 4 6 D
+    Transform message form [number: 1] [name: BreakVoid]: 4 0 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (4,0) move to (5 0)
+    Send to player 0 [name: aaa] infomation : (1 4 0 5 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 4 6 3 6)
+Step 331:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 7 6 U
+    Transform message form [number: 0] [name: aaa]: 7 6 U
+    Correct move!
+    Player 0 [name aaa] choose (7,6) move to (8 6)
+    Send to player 0 [name: aaa] infomation : (0 7 6 8 6)
+    Send to player 1 [name: BreakVoid] infomation : (0 1 0 0 0)
+Step 332:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 6 L
+    Transform message form [number: 1] [name: BreakVoid]: 5 0 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,0) move to (5 3)
+    Send to player 0 [name: aaa] infomation : (1 5 0 5 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 6 3 3)
+Step 333:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 334:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 5 D
+    Transform message form [number: 1] [name: BreakVoid]: 6 1 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,1) move to (7 1)
+    Send to player 0 [name: aaa] infomation : (1 6 1 7 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 5 1 5)
+Step 335:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 2 R
+    Transform message form [number: 0] [name: aaa]: 1 2 R
+    Correct move!
+    Player 0 [name aaa] choose (1,2) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 1 2 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 4 7 3)
+Step 336:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 5 D
+    Transform message form [number: 1] [name: BreakVoid]: 7 1 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,1) move to (8 1)
+    Send to player 0 [name: aaa] infomation : (1 7 1 8 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 5 0 5)
+Step 337:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 R
+    Transform message form [number: 0] [name: aaa]: 1 3 R
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (1 4)
+    Send to player 0 [name: aaa] infomation : (0 1 3 1 4)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 7 2)
+Step 338:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 3 L
+    Transform message form [number: 1] [name: BreakVoid]: 5 3 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,3) move to (5 6)
+    Send to player 0 [name: aaa] infomation : (1 5 3 5 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 3 3 0)
+Step 339:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 0 1 U
+    Transform message form [number: 0] [name: aaa]: 0 1 U
+    Correct move!
+    Player 0 [name aaa] choose (0,1) move to (1 1)
+    Send to player 0 [name: aaa] infomation : (0 0 1 1 1)
+    Send to player 1 [name: BreakVoid] infomation : (0 8 5 7 5)
+Step 340:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 0 D
+    Transform message form [number: 1] [name: BreakVoid]: 5 6 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,6) move to (6 6)
+    Send to player 0 [name: aaa] infomation : (1 5 6 6 6)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 0 2 0)
+Step 341:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 342:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 5 L
+    Transform message form [number: 1] [name: BreakVoid]: 8 1 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,1) move to (8 2)
+    Send to player 0 [name: aaa] infomation : (1 8 1 8 2)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 5 0 4)
+Step 343:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 344:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 0 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 6 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,6) move to (6 5)
+    Send to player 0 [name: aaa] infomation : (1 6 6 6 5)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 0 2 1)
+Step 345:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 346:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 1 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 5 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,5) move to (6 4)
+    Send to player 0 [name: aaa] infomation : (1 6 5 6 4)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 1 2 2)
+Step 347:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 348:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 2 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 4 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,4) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 6 4 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 2 2 3)
+Step 349:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 350:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (6 2)
+    Send to player 0 [name: aaa] infomation : (1 6 3 6 2)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 2 4)
+Step 351:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 352:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 4 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 2 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,2) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 6 2 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 4 2 3)
+Step 353:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 354:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 U
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (5 3)
+    Send to player 0 [name: aaa] infomation : (1 6 3 5 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 3 3)
+Step 355:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 356:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 3 D
+    Transform message form [number: 1] [name: BreakVoid]: 5 3 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,3) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 5 3 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 3 2 3)
+Step 357:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 358:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 4 R
+    Transform message form [number: 1] [name: BreakVoid]: 8 2 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,2) move to (8 1)
+    Send to player 0 [name: aaa] infomation : (1 8 2 8 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 4 0 5)
+Step 359:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 1 R
+    Transform message form [number: 0] [name: aaa]: 1 1 R
+    Correct move!
+    Player 0 [name aaa] choose (1,1) move to (1 2)
+    Send to player 0 [name: aaa] infomation : (0 1 1 1 2)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 5 7 4)
+Step 360:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 5 U
+    Transform message form [number: 1] [name: BreakVoid]: 8 1 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,1) move to (7 1)
+    Send to player 0 [name: aaa] infomation : (1 8 1 7 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 5 1 5)
+Step 361:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 362:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 5 D
+    Transform message form [number: 1] [name: BreakVoid]: 7 1 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,1) move to (8 1)
+    Send to player 0 [name: aaa] infomation : (1 7 1 8 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 5 0 5)
+Step 363:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 364:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (6 2)
+    Send to player 0 [name: aaa] infomation : (1 6 3 6 2)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 2 4)
+Step 365:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 366:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 4 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 2 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,2) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 6 2 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 4 2 3)
+Step 367:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 368:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (6 2)
+    Send to player 0 [name: aaa] infomation : (1 6 3 6 2)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 2 4)
+Step 369:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 370:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 5 U
+    Transform message form [number: 1] [name: BreakVoid]: 8 1 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,1) move to (7 1)
+    Send to player 0 [name: aaa] infomation : (1 8 1 7 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 5 1 5)
+Step 371:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 L
+    Transform message form [number: 0] [name: aaa]: 2 3 L
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (2 2)
+    Send to player 0 [name: aaa] infomation : (0 2 3 2 2)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 6 4)
+Step 372:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 4 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 2 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,2) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 6 2 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 4 2 3)
+Step 373:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 2 R
+    Transform message form [number: 0] [name: aaa]: 2 2 R
+    Correct move!
+    Player 0 [name aaa] choose (2,2) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 2 2 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 4 6 3)
+Step 374:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 5 R
+    Transform message form [number: 1] [name: BreakVoid]: 7 1 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,1) move to (7 0)
+    Send to player 0 [name: aaa] infomation : (1 7 1 7 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 5 1 6)
+Step 375:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 U
+    Transform message form [number: 0] [name: aaa]: 2 3 U
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 5 3)
+Step 376:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 6 D
+    Transform message form [number: 1] [name: BreakVoid]: 7 0 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,0) move to (8 0)
+    Send to player 0 [name: aaa] infomation : (1 7 0 8 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 6 0 6)
+Step 377:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 U
+    Transform message form [number: 0] [name: aaa]: 3 3 U
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (4 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 4 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 4 3)
+Step 378:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (6 4)
+    Send to player 0 [name: aaa] infomation : (1 6 3 6 4)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 2 2)
+Step 379:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 3 D
+    Transform message form [number: 0] [name: aaa]: 4 3 D
+    Correct move!
+    Player 0 [name aaa] choose (4,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 4 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 3 5 3)
+Step 380:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 2 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 4 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,4) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 6 4 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 2 2 3)
+Step 381:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 U
+    Transform message form [number: 0] [name: aaa]: 3 3 U
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (4 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 4 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 4 3)
+Step 382:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (6 4)
+    Send to player 0 [name: aaa] infomation : (1 6 3 6 4)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 2 2)
+Step 383:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 3 D
+    Transform message form [number: 0] [name: aaa]: 4 3 D
+    Correct move!
+    Player 0 [name aaa] choose (4,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 4 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 3 5 3)
+Step 384:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 6 U
+    Transform message form [number: 1] [name: BreakVoid]: 8 0 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,0) move to (7 0)
+    Send to player 0 [name: aaa] infomation : (1 8 0 7 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 6 1 6)
+Step 385:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 D
+    Transform message form [number: 0] [name: aaa]: 3 3 D
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 6 3)
+Step 386:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 6 D
+    Transform message form [number: 1] [name: BreakVoid]: 7 0 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,0) move to (8 0)
+    Send to player 0 [name: aaa] infomation : (1 7 0 8 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 6 0 6)
+Step 387:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 R
+    Transform message form [number: 0] [name: aaa]: 2 3 R
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (2 4)
+    Send to player 0 [name: aaa] infomation : (0 2 3 2 4)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 6 2)
+Step 388:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 2 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 4 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,4) move to (6 5)
+    Send to player 0 [name: aaa] infomation : (1 6 4 6 5)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 2 2 1)
+Step 389:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 4 L
+    Transform message form [number: 0] [name: aaa]: 2 4 L
+    Correct move!
+    Player 0 [name aaa] choose (2,4) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 2 4 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 2 6 3)
+Step 390:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 6 L
+    Transform message form [number: 1] [name: BreakVoid]: 8 0 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,0) move to (8 1)
+    Send to player 0 [name: aaa] infomation : (1 8 0 8 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 6 0 5)
+Step 391:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 392:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 1 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 5 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,5) move to (6 4)
+    Send to player 0 [name: aaa] infomation : (1 6 5 6 4)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 1 2 2)
+Step 393:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 5 L
+    Transform message form [number: 0] [name: aaa]: 4 5 L
+    Correct move!
+    Player 0 [name aaa] choose (4,5) move to (4 4)
+    Send to player 0 [name: aaa] infomation : (0 4 5 4 4)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 1 4 2)
+Step 394:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 2 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 4 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,4) move to (6 5)
+    Send to player 0 [name: aaa] infomation : (1 6 4 6 5)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 2 2 1)
+Step 395:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 4 R
+    Transform message form [number: 0] [name: aaa]: 4 4 R
+    Correct move!
+    Player 0 [name aaa] choose (4,4) move to (4 5)
+    Send to player 0 [name: aaa] infomation : (0 4 4 4 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 2 4 1)
+Step 396:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 5 L
+    Transform message form [number: 1] [name: BreakVoid]: 8 1 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,1) move to (8 2)
+    Send to player 0 [name: aaa] infomation : (1 8 1 8 2)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 5 0 4)
+Step 397:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 398:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 1 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 5 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,5) move to (6 4)
+    Send to player 0 [name: aaa] infomation : (1 6 5 6 4)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 1 2 2)
+Step 399:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 R
+    Transform message form [number: 0] [name: aaa]: 2 3 R
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (2 4)
+    Send to player 0 [name: aaa] infomation : (0 2 3 2 4)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 6 2)
+Step 400:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 2 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 4 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,4) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 6 4 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 2 2 3)
+Step 401:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 4 L
+    Transform message form [number: 0] [name: aaa]: 2 4 L
+    Correct move!
+    Player 0 [name aaa] choose (2,4) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 2 4 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 2 6 3)
+Step 402:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (6 4)
+    Send to player 0 [name: aaa] infomation : (1 6 3 6 4)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 2 2)
+Step 403:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 R
+    Transform message form [number: 0] [name: aaa]: 2 3 R
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (2 4)
+    Send to player 0 [name: aaa] infomation : (0 2 3 2 4)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 6 2)
+Step 404:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 4 R
+    Transform message form [number: 1] [name: BreakVoid]: 8 2 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,2) move to (8 1)
+    Send to player 0 [name: aaa] infomation : (1 8 2 8 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 4 0 5)
+Step 405:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 5 U
+    Transform message form [number: 0] [name: aaa]: 4 5 U
+    Correct move!
+    Player 0 [name aaa] choose (4,5) move to (5 5)
+    Send to player 0 [name: aaa] infomation : (0 4 5 5 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 1 3 1)
+Step 406:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 2 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 4 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,4) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 6 4 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 2 2 3)
+Step 407:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 4 L
+    Transform message form [number: 0] [name: aaa]: 2 4 L
+    Correct move!
+    Player 0 [name aaa] choose (2,4) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 2 4 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 2 6 3)
+Step 408:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 5 L
+    Transform message form [number: 1] [name: BreakVoid]: 8 1 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,1) move to (8 2)
+    Send to player 0 [name: aaa] infomation : (1 8 1 8 2)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 5 0 4)
+Step 409:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 U
+    Transform message form [number: 0] [name: aaa]: 2 3 U
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 5 3)
+Step 410:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 U
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (5 3)
+    Send to player 0 [name: aaa] infomation : (1 6 3 5 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 3 3)
+Step 411:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 U
+    Transform message form [number: 0] [name: aaa]: 3 3 U
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (4 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 4 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 4 3)
+Step 412:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 3 D
+    Transform message form [number: 1] [name: BreakVoid]: 5 3 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,3) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 5 3 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 3 2 3)
+Step 413:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 3 D
+    Transform message form [number: 0] [name: aaa]: 4 3 D
+    Correct move!
+    Player 0 [name aaa] choose (4,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 4 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 3 5 3)
+Step 414:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 U
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (5 3)
+    Send to player 0 [name: aaa] infomation : (1 6 3 5 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 3 3)
+Step 415:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 U
+    Transform message form [number: 0] [name: aaa]: 3 3 U
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (4 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 4 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 4 3)
+Step 416:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 3 D
+    Transform message form [number: 1] [name: BreakVoid]: 5 3 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,3) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 5 3 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 3 2 3)
+Step 417:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 3 D
+    Transform message form [number: 0] [name: aaa]: 4 3 D
+    Correct move!
+    Player 0 [name aaa] choose (4,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 4 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 3 5 3)
+Step 418:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 4 R
+    Transform message form [number: 1] [name: BreakVoid]: 8 2 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,2) move to (8 1)
+    Send to player 0 [name: aaa] infomation : (1 8 2 8 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 4 0 5)
+Step 419:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 D
+    Transform message form [number: 0] [name: aaa]: 3 3 D
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 6 3)
+Step 420:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 U
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (5 3)
+    Send to player 0 [name: aaa] infomation : (1 6 3 5 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 3 3)
+Step 421:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 422:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 5 U
+    Transform message form [number: 1] [name: BreakVoid]: 8 1 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,1) move to (7 1)
+    Send to player 0 [name: aaa] infomation : (1 8 1 7 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 5 1 5)
+Step 423:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 424:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 5 R
+    Transform message form [number: 1] [name: BreakVoid]: 7 1 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,1) move to (7 0)
+    Send to player 0 [name: aaa] infomation : (1 7 1 7 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 5 1 6)
+Step 425:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 U
+    Transform message form [number: 0] [name: aaa]: 2 3 U
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 5 3)
+Step 426:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 6 D
+    Transform message form [number: 1] [name: BreakVoid]: 7 0 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,0) move to (8 0)
+    Send to player 0 [name: aaa] infomation : (1 7 0 8 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 6 0 6)
+Step 427:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 U
+    Transform message form [number: 0] [name: aaa]: 3 3 U
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (4 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 4 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 4 3)
+Step 428:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 3 R
+    Transform message form [number: 1] [name: BreakVoid]: 5 3 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,3) move to (5 0)
+    Send to player 0 [name: aaa] infomation : (1 5 3 5 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 3 3 6)
+Step 429:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 3 D
+    Transform message form [number: 0] [name: aaa]: 4 3 D
+    Correct move!
+    Player 0 [name aaa] choose (4,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 4 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 3 5 3)
+Step 430:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 6 L
+    Transform message form [number: 1] [name: BreakVoid]: 8 0 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,0) move to (8 1)
+    Send to player 0 [name: aaa] infomation : (1 8 0 8 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 6 0 5)
+Step 431:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 D
+    Transform message form [number: 0] [name: aaa]: 3 3 D
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 6 3)
+Step 432:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 6 U
+    Transform message form [number: 1] [name: BreakVoid]: 5 0 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,0) move to (4 0)
+    Send to player 0 [name: aaa] infomation : (1 5 0 4 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 6 4 6)
+Step 433:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 U
+    Transform message form [number: 0] [name: aaa]: 2 3 U
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 5 3)
+Step 434:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 5 R
+    Transform message form [number: 1] [name: BreakVoid]: 8 1 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,1) move to (8 0)
+    Send to player 0 [name: aaa] infomation : (1 8 1 8 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 5 0 6)
+Step 435:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 5 5 D
+    Transform message form [number: 0] [name: aaa]: 5 5 D
+    Correct move!
+    Player 0 [name aaa] choose (5,5) move to (4 5)
+    Send to player 0 [name: aaa] infomation : (0 5 5 4 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 3 1 4 1)
+Step 436:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 6 L
+    Transform message form [number: 1] [name: BreakVoid]: 8 0 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,0) move to (8 1)
+    Send to player 0 [name: aaa] infomation : (1 8 0 8 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 6 0 5)
+Step 437:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 D
+    Transform message form [number: 0] [name: aaa]: 3 3 D
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 6 3)
+Step 438:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 4 6 U
+    Transform message form [number: 1] [name: BreakVoid]: 4 0 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (4,0) move to (3 0)
+    Send to player 0 [name: aaa] infomation : (1 4 0 3 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 4 6 5 6)
+Step 439:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 U
+    Transform message form [number: 0] [name: aaa]: 2 3 U
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 5 3)
+Step 440:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 5 R
+    Transform message form [number: 1] [name: BreakVoid]: 8 1 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,1) move to (8 0)
+    Send to player 0 [name: aaa] infomation : (1 8 1 8 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 5 0 6)
+Step 441:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 4 5 U
+    Transform message form [number: 0] [name: aaa]: 4 5 U
+    Correct move!
+    Player 0 [name aaa] choose (4,5) move to (5 5)
+    Send to player 0 [name: aaa] infomation : (0 4 5 5 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 4 1 3 1)
+Step 442:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 0 6 U
+    Transform message form [number: 1] [name: BreakVoid]: 8 0 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (8,0) move to (7 0)
+    Send to player 0 [name: aaa] infomation : (1 8 0 7 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 0 6 1 6)
+Step 443:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 D
+    Transform message form [number: 0] [name: aaa]: 3 3 D
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 6 3)
+Step 444:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 5 6 U
+    Transform message form [number: 1] [name: BreakVoid]: 3 0 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (3,0) move to (2 0)
+    Send to player 0 [name: aaa] infomation : (1 3 0 2 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 5 6 6 6)
+Step 445:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 U
+    Transform message form [number: 0] [name: aaa]: 2 3 U
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 5 3)
+Step 446:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 6 U
+    Transform message form [number: 1] [name: BreakVoid]: 7 0 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,0) move to (6 0)
+    Send to player 0 [name: aaa] infomation : (1 7 0 6 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 6 2 6)
+Step 447:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 D
+    Transform message form [number: 0] [name: aaa]: 3 3 D
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 6 3)
+Step 448:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 6 6 U
+    Transform message form [number: 1] [name: BreakVoid]: 2 0 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (2,0) move to (1 0)
+    Send to player 0 [name: aaa] infomation : (1 2 0 1 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 6 6 7 6)
+Step 449:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 U
+    Transform message form [number: 0] [name: aaa]: 2 3 U
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (3 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 3 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 5 3)
+Step 450:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 2 D
+    Transform message form [number: 1] [name: BreakVoid]: 7 4 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,4) move to (8 4)
+    Send to player 0 [name: aaa] infomation : (1 7 4 8 4)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 2 0 2)
+Step 451:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 8 5 L
+    Transform message form [number: 0] [name: aaa]: 8 5 L
+    Correct move!
+    Player 0 [name aaa] choose (8,5) move to (8 4)
+    Send to player 0 [name: aaa] infomation : (0 8 5 8 4)
+    Send to player 1 [name: BreakVoid] infomation : (0 0 1 0 2)
+Step 452:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 7 6 D
+    Transform message form [number: 1] [name: BreakVoid]: 1 0 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (1,0) move to (2 0)
+    Send to player 0 [name: aaa] infomation : (1 1 0 2 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 7 6 6 6)
+Step 453:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 3 3 D
+    Transform message form [number: 0] [name: aaa]: 3 3 D
+    Correct move!
+    Player 0 [name aaa] choose (3,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 3 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 5 3 6 3)
+Step 454:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 6 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 0 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,0) move to (6 1)
+    Send to player 0 [name: aaa] infomation : (1 6 0 6 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 6 2 5)
+Step 455:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 456:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 3 U
+    Transform message form [number: 1] [name: BreakVoid]: 7 3 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,3) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 7 3 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 3 2 3)
+Step 457:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 458:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 4 U
+    Transform message form [number: 1] [name: BreakVoid]: 7 2 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,2) move to (6 2)
+    Send to player 0 [name: aaa] infomation : (1 7 2 6 2)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 4 2 4)
+Step 459:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 8 6 L
+    Transform message form [number: 0] [name: aaa]: 8 6 L
+    Correct move!
+    Player 0 [name aaa] choose (8,6) move to (8 5)
+    Send to player 0 [name: aaa] infomation : (0 8 6 8 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 0 0 0 1)
+Step 460:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 4 D
+    Transform message form [number: 1] [name: BreakVoid]: 6 2 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,2) move to (7 2)
+    Send to player 0 [name: aaa] infomation : (1 6 2 7 2)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 4 1 4)
+Step 461:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 462:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 1 4 U
+    Transform message form [number: 1] [name: BreakVoid]: 7 2 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (7,2) move to (6 2)
+    Send to player 0 [name: aaa] infomation : (1 7 2 6 2)
+    Send to player 1 [name: BreakVoid] infomation : (1 1 4 2 4)
+Step 463:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 464:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 3 L
+    Transform message form [number: 1] [name: BreakVoid]: 6 3 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,3) move to (6 4)
+    Send to player 0 [name: aaa] infomation : (1 6 3 6 4)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 3 2 2)
+Step 465:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 5 5 D
+    Transform message form [number: 0] [name: aaa]: 5 5 D
+    Correct move!
+    Player 0 [name aaa] choose (5,5) move to (4 5)
+    Send to player 0 [name: aaa] infomation : (0 5 5 4 5)
+    Send to player 1 [name: BreakVoid] infomation : (0 3 1 4 1)
+Step 466:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 2 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 4 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,4) move to (6 3)
+    Send to player 0 [name: aaa] infomation : (1 6 4 6 3)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 2 2 3)
+Step 467:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 468:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 6 6 L
+    Transform message form [number: 1] [name: BreakVoid]: 2 0 R
+    Correct move!
+    Player 1 [name BreakVoid] choose (2,0) move to (2 1)
+    Send to player 0 [name: aaa] infomation : (1 2 0 2 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 6 6 6 5)
+Step 469:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 470:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 5 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 1 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,1) move to (6 0)
+    Send to player 0 [name: aaa] infomation : (1 6 1 6 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 5 2 6)
+Step 471:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 472:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 6 U
+    Transform message form [number: 1] [name: BreakVoid]: 6 0 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,0) move to (5 0)
+    Send to player 0 [name: aaa] infomation : (1 6 0 5 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 6 3 6)
+Step 473:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 3 U
+    Transform message form [number: 0] [name: aaa]: 1 3 U
+    Correct move!
+    Player 0 [name aaa] choose (1,3) move to (2 3)
+    Send to player 0 [name: aaa] infomation : (0 1 3 2 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 3 6 3)
+Step 474:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 6 5 U
+    Transform message form [number: 1] [name: BreakVoid]: 2 1 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (2,1) move to (1 1)
+    Send to player 0 [name: aaa] infomation : (1 2 1 1 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 6 5 7 5)
+Step 475:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 1 2 U
+    Transform message form [number: 0] [name: aaa]: 1 2 U
+    Correct move!
+    Player 0 [name aaa] choose (1,2) move to (2 2)
+    Send to player 0 [name: aaa] infomation : (0 1 2 2 2)
+    Send to player 1 [name: BreakVoid] infomation : (0 7 4 6 4)
+Step 476:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 2 4 R
+    Transform message form [number: 1] [name: BreakVoid]: 6 2 L
+    Correct move!
+    Player 1 [name BreakVoid] choose (6,2) move to (6 1)
+    Send to player 0 [name: aaa] infomation : (1 6 2 6 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 2 4 2 5)
+Step 477:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 3 D
+    Transform message form [number: 0] [name: aaa]: 2 3 D
+    Correct move!
+    Player 0 [name aaa] choose (2,3) move to (1 3)
+    Send to player 0 [name: aaa] infomation : (0 2 3 1 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 3 7 3)
+Step 478:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 7 5 U
+    Transform message form [number: 1] [name: BreakVoid]: 1 1 D
+    Correct move!
+    Player 1 [name BreakVoid] choose (1,1) move to (0 1)
+    Send to player 0 [name: aaa] infomation : (1 1 1 0 1)
+    Send to player 1 [name: BreakVoid] infomation : (1 7 5 8 5)
+Step 479:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 2 2 D
+    Transform message form [number: 0] [name: aaa]: 2 2 D
+    Correct move!
+    Player 0 [name aaa] choose (2,2) move to (1 2)
+    Send to player 0 [name: aaa] infomation : (0 2 2 1 2)
+    Send to player 1 [name: BreakVoid] infomation : (0 6 4 7 4)
+Step 480:
+    Send to player 1 [name: BreakVoid] a signal: ACTION
+    Receive message form player 1 [name: BreakVoid]: 3 6 D
+    Transform message form [number: 1] [name: BreakVoid]: 5 0 U
+    Correct move!
+    Player 1 [name BreakVoid] choose (5,0) move to (6 0)
+    Send to player 0 [name: aaa] infomation : (1 5 0 6 0)
+    Send to player 1 [name: BreakVoid] infomation : (1 3 6 2 6)
+Step 481:
+    Send to player 0 [name: aaa] a signal: ACTION
+    Receive message form player 0 [name: aaa]: 8 4 L
+    Transform message form [number: 0] [name: aaa]: 8 4 L
+    Correct move!
+    Player 0 [name aaa] choose (8,4) move to (8 3)
+    Send to player 0 [name: aaa] infomation : (0 8 4 8 3)
+    Send to player 1 [name: BreakVoid] infomation : (0 0 2 0 3)
+    The Player 0 (name aaa) win the game
+Closing connections:
+    Player 0 [name: aaa] connection closed succueefully
+    Player 1 [name: BreakVoid] connection closed succueefully
+Total Steps: 481
+End!
